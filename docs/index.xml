@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>YoungHom</title>
+    <link>https://younghomseminar.github.io/</link>
+    <description>Recent content on YoungHom</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright> </copyright>
+    <lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://younghomseminar.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test talk on something homtotopy stuff</title>
+      <link>https://younghomseminar.github.io/posts/01-09-2022/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://younghomseminar.github.io/posts/01-09-2022/</guid>
+      <description>Speaker Abstract Very cool talk
+$\sum_0^\infty 1/i $</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://younghomseminar.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://younghomseminar.github.io/about/</guid>
+      <description>The goal of this online seminar is to provide a meeting space for young people in homotopy theory to share their research with people in the same area. All incoming, current and recently graduated PhD students are welcome to participate, but the speaker slots are reserved for current PhD students.
+The talks will be held online, biweekly, on Thursdays 2pm GMT.
+The talks can be either expository or research based, but should contain at least five minutes describing your own research.</description>
+    </item>
+    
+    
+    <item>
+      <title>Schedule</title>
+      <link>https://younghomseminar.github.io/schedule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://younghomseminar.github.io/schedule/</guid>
+      <description>   Date Speaker Title      01. September TBA TBA Abstract   15. September TBA TBA Abstract   29. September TBA TBA Abstract    </description>
+    </item>
+    
+    
+  </channel>
+</rss>

@@ -1,0 +1,160 @@
+baseURL: "https://younghomseminar.github.io/"
+title: YoungHom
+paginate: 10
+theme: PaperMod
+copyright: " "
+publishDir: docs
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: true
+buildExpired: false
+enableEmoji: true
+
+
+minify:
+    disableXML: true
+    # minifyOutput: true
+
+
+
+    
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
+menu:
+    main:   
+      - name: Schedule
+        url: schedule/
+        weight: 10           
+      - name: Archive
+        url: archives/
+        weight: 25    
+      - name: About
+        url: about/
+        weight: 30
+
+
+
+
+params:
+    # env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    description: ""
+    author: 
+    # author: ["Me", "You"] # multiple authors
+
+    defaultTheme: auto
+    # disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    displayFullLangName: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowToc: true
+    cover:
+        responsiveImages: false
+        hiddenInSingle: true 
+    # hidesummary: true
+    # comments: true
+
+    # images: ["papermod-cover.png"]
+
+    profileMode:
+          enabled: true
+          title: Young Homotopy-theorist Online Meeting
+          imageUrl: "0torgeir-1.png"
+          imageTitle: my image
+          imageWidth: 265
+          imageHeight: 310
+          subtitle: ""
+
+    
+    #homeInfoParams:
+    #    Title: Young Homotopy Theorist Online Meeting
+    #    Content: >
+            
+
+#    socialIcons:
+#        - name: buymeacoffee
+#          url: "https://www.buymeacoffee.com/aamboe"  
+#        - name: LinkedIn
+#          url: "https://www.linkedin.com/in/torgeir-aamb%C3%B8/"
+#        - name: Email
+#          url: "mailto:torgeiraamboe@gmail.com"
+#        - name: github
+#          url: "https://github.com/torgeiraamboe"        
+
+
+    # label:
+    #     text: "Home"
+    #     icon: icon.png
+    #     iconHeight: 35
+
+    # analytics:
+    #     google:
+    #         SiteVerificationTag: "Boi"
+
+    # assets:
+    #     favicon: "<link / abs url>"
+    #     favicon16x16: "<link / abs url>"
+    #     favicon32x32: "<link / abs url>"
+    #     apple_touch_icon: "<link / abs url>"
+    #     safari_pinned_tab: "<link / abs url>"
+
+
+    # fuseOpts:
+    #     isCaseSensitive: false
+    #     shouldSort: true
+    #     location: 0
+    #     distance: 1000
+    #     threshold: 0.4
+    #     minMatchCharLength: 0
+    #     keys: ["title", "permalink", "summary", "content"]
+
+taxonomies:
+    category: categories
+    tag: tags
+    series: series
+
+markup:
+     goldmark:
+        renderer:
+            unsafe: true
+#     highlight:
+#         # anchorLineNos: true
+#         codeFences: true
+#         guessSyntax: true
+#         lineNos: true
+#         # noClasses: false
+#         style: monokai
+
+#privacy:
+#    vimeo:
+#        disabled: false
+#        simple: true
+
+#    twitter:
+#        disabled: false
+#        enableDNT: true
+#        simple: true
+
+#    instagram:
+#        disabled: false
+#        simple: true
+
+#    youtube:
+#        disabled: false
+#        privacyEnhanced: true
+
+#services:
+#    instagram:
+#        disableInlineCSS: true
+#    twitter:
+#        disableInlineCSS: true
+
+    

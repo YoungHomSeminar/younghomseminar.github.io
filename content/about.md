@@ -14,3 +14,7 @@ The talks can be either expository or research based, but should contain at leas
 
 If you are interested in giving a talk or joining the mailing list to get updates on talks, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfUHSWNDzNwApwbQTMPK8IoVcUKXucg5M792ivbCYiiEtmmpQ/viewform).
 
+If you have any questions or comments, don't hesitate to contact us: 
+ - [Julie Rasmusen](mailto:julie.rasmusen@warwick.ac.uk) (Talks, schedule, general)
+ - [Torgeir Aambø](mailto:torgeir.aambo@ntnu.no) (Webpage, Zoom)
+

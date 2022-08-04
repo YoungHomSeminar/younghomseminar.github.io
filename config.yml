@@ -30,13 +30,13 @@ menu:
     main:   
       - name: Schedule
         url: schedule/
-        weight: 10           
+        weight: 5           
       - name: Archive
         url: archives/
-        weight: 25    
+        weight: 10    
       - name: About
         url: about/
-        weight: 30
+        weight: 15
 
 
 
@@ -52,7 +52,7 @@ params:
     ShowReadingTime: false
     disableSpecial1stPost: true
     displayFullLangName: true
-    ShowPostNavLinks: false
+    ShowPostNavLinks: true
     ShowBreadCrumbs: false
     ShowToc: true
     cover:

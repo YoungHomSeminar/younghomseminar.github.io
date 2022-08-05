@@ -2,31 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://younghomseminar.github.io/categories/algebraic-topology/</loc>
-    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://younghomseminar.github.io/categories/</loc>
-    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://younghomseminar.github.io/tags/homotopy-groups/</loc>
+    <loc>https://younghomseminar.github.io/posts/01-09-2022/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://younghomseminar.github.io/posts/</loc>
-    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://younghomseminar.github.io/tags/spectra/</loc>
-    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://younghomseminar.github.io/tags/spectral-sequences/</loc>
-    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://younghomseminar.github.io/categories/stable-homotopy-theory/</loc>
-    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://younghomseminar.github.io/tags/</loc>
-    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://younghomseminar.github.io/posts/01-09-2022/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://younghomseminar.github.io/</loc>
@@ -36,10 +15,14 @@
   </url><url>
     <loc>https://younghomseminar.github.io/archives/</loc>
   </url><url>
+    <loc>https://younghomseminar.github.io/categories/</loc>
+  </url><url>
     <loc>https://younghomseminar.github.io/schedule/</loc>
   </url><url>
     <loc>https://younghomseminar.github.io/search/</loc>
   </url><url>
     <loc>https://younghomseminar.github.io/series/</loc>
+  </url><url>
+    <loc>https://younghomseminar.github.io/tags/</loc>
   </url>
 </urlset>

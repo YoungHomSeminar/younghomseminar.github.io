@@ -7,8 +7,10 @@ ShowReadingTime: false
 math: true
 ---
 
-|Date         |Speaker     |Title   |            |
-|-------------|------------|--------|------------|
-|01. September|TBA         |TBA     |[Abstract]({{<ref "01-09-2022">}})|
-|15. September|TBA         |TBA     |[Abstract]()|
-|29. September|TBA         |TBA     |[Abstract]()|
+All talks are given at 2pm GMT. 
+
+|Date    |Speaker         |Title|
+|--------|----------------|-----|
+|01. Sept|Jonas McCandless|[Polygons and TR with coefficients]({{<ref "01-09-2022">}})|
+|15. Sept|Maxime Ramzi    |TBA|
+|29. Sept|Andrea Lachmann |TBA|

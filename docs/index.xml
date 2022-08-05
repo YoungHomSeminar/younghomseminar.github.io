@@ -8,13 +8,13 @@
     <copyright> </copyright>
     <lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://younghomseminar.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test talk on something homtotopy stuff</title>
+      <title>Polygons and TR with coefficients</title>
       <link>https://younghomseminar.github.io/posts/01-09-2022/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>https://younghomseminar.github.io/posts/01-09-2022/</guid>
-      <description>Speaker Abstract Very cool talk
-$\sum_0^\infty 1/i $</description>
+      <description>Speaker: Jonas McCandless - University of Münster
+Abstract: I will introduce the notion of a polygonic spectrum which is a multi-object version of the notion of a cyclotomic spectrum indexed by polygons rather than the circle. This is designed to capture the structure on topological Hochschild homology of a ring with coefficients in a bimodule. Using this, I will explain the construction of TR with coefficients and explain how this is equipped with compatible Frobenius and Verschiebung maps.</description>
     </item>
     
     <item>
@@ -35,7 +35,8 @@ The talks can be either expository or research based, but should contain at leas
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://younghomseminar.github.io/schedule/</guid>
-      <description>   Date Speaker Title      01. September TBA TBA Abstract   15. September TBA TBA Abstract   29. September TBA TBA Abstract    </description>
+      <description>All talks are given at 2pm GMT.
+   Date Speaker Title     01. Sept Jonas McCandless Polygons and TR with coefficients   15. Sept Maxime Ramzi TBA   29. Sept Andrea Lachmann TBA    </description>
     </item>
     
     

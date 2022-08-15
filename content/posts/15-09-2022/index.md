@@ -1,7 +1,7 @@
 ---
-title: "TBA"
+title: "Dimensions of colimits"
 date: 2022-09-15
-draft: true
+draft: false
 math: true
 showtoc: false
 ---

@@ -12,5 +12,7 @@ All talks are given at 2pm GMT.
 |Date    |Speaker         |Title|
 |--------|----------------|-----|
 |01. Sept|Jonas McCandless|[Polygons and TR with coefficients]({{<ref "01-09-2022">}})|
-|15. Sept|Maxime Ramzi    |TBA|
+|15. Sept|Maxime Ramzi    |[Dimensions of colimits]({{<ref "15-09-2022">}})|
 |29. Sept|Andrea Lachmann |TBA|
+|27. Oct |Shaul Barkan    |TBA|
+|10. Nov |Sil Linskens    |TBA|

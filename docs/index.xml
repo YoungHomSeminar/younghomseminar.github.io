@@ -6,7 +6,17 @@
     <description>Recent content on YoungHom</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright> </copyright>
-    <lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://younghomseminar.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://younghomseminar.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dimensions of colimits</title>
+      <link>https://younghomseminar.github.io/posts/15-09-2022/</link>
+      <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://younghomseminar.github.io/posts/15-09-2022/</guid>
+      <description>Speaker: Maxime Ramzi – Unversity of Copenhagen
+Abstract: TBA</description>
+    </item>
+    
     <item>
       <title>Polygons and TR with coefficients</title>
       <link>https://younghomseminar.github.io/posts/01-09-2022/</link>
@@ -36,7 +46,7 @@ The talks can be either expository or research based, but should contain at leas
       
       <guid>https://younghomseminar.github.io/schedule/</guid>
       <description>All talks are given at 2pm GMT.
-   Date Speaker Title     01. Sept Jonas McCandless Polygons and TR with coefficients   15. Sept Maxime Ramzi TBA   29. Sept Andrea Lachmann TBA    </description>
+   Date Speaker Title     01. Sept Jonas McCandless Polygons and TR with coefficients   15. Sept Maxime Ramzi Dimensions of colimits   29. Sept Andrea Lachmann TBA   27. Oct Shaul Barkan TBA   10. Nov Sil Linskens TBA    </description>
     </item>
     
     

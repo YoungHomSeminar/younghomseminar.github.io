@@ -6,7 +6,17 @@
     <description>Recent content in Posts on YoungHom</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright> </copyright>
-    <lastBuildDate>Thu, 15 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://younghomseminar.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://younghomseminar.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Global homotopy theory via lax limits</title>
+      <link>https://younghomseminar.github.io/posts/10-11-2022/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://younghomseminar.github.io/posts/10-11-2022/</guid>
+      <description>Speaker: Sil Linskens - University of Bonn
+Abstract: Global equivariant stable homotopy theory is a formalism which admits applications to orbifold cohomology, elliptic cohomology and importantly equivariant stable homotopy theory. Many important equivariant spectra admit global refinements, and these refinements have led to theoretical advances and have aided in calculations. However not only does global homotopy theory admit applications to equivariant homotopy theory, but it seems reasonable to expect that global homotopy theory is in some sense determined by equivariant homotopy theory.</description>
+    </item>
+    
     <item>
       <title>Dimensions of colimits</title>
       <link>https://younghomseminar.github.io/posts/15-09-2022/</link>

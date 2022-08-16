@@ -15,4 +15,4 @@ All talks are given at 2pm GMT.
 |15. Sept|Maxime Ramzi    |[Dimensions of colimits]({{<ref "15-09-2022">}})|
 |29. Sept|Andrea Lachmann |TBA|
 |27. Oct |Shaul Barkan    |TBA|
-|10. Nov |Sil Linskens    |TBA|
+|10. Nov |Sil Linskens    |[Global homotopy theory via lax limits]({{<ref "10-11-2022">}})|

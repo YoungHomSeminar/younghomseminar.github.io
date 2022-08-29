@@ -1,4 +1,3 @@
-# My blog
+# Young Homotopy-theorist Online Meeting
 
-For easier blog-post publishing I have split my homepage in two, one static information site, hosted [here](https://folk.ntnu.no/torgeaam/) and one blog site, hosted [here](https://torgeiraamboe.github.io/) on github pages! 
-
+Files for the seminar webpage. Maintained by Torgeir Aambø

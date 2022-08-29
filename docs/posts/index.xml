@@ -24,7 +24,8 @@ Abstract: Global equivariant stable homotopy theory is a formalism which admits 
       
       <guid>https://younghomseminar.github.io/posts/15-09-2022/</guid>
       <description>Speaker: Maxime Ramzi – Unversity of Copenhagen
-Abstract: TBA</description>
+Abstract: We use the Hochschild-homological interpretation of dimensions and more generally traces in symmetric monoidal $\infty$-categories to produce formulas for dimensions and traces of colimits over sufficiently nice spaces.
+These formulas specialize on the one hand to the very classical character-theoretic formulas for dimensions of coinvariants in the case of vector spaces in characteristic $0$ and when the space is $BG$ for some finite group $G$; and on the other hand to the Blumberg-Cohen-Schlichtkrull formula for topological Hochschild homology of Thom spectra.</description>
     </item>
     
     <item>

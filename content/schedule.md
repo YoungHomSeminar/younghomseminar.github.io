@@ -17,3 +17,4 @@ All talks are given at 2pm GMT.
 |13. Oct |Alicia Lima     |TBA|
 |27. Oct |Shaul Barkan    |TBA|
 |10. Nov |Sil Linskens    |[Global homotopy theory via lax limits]({{<ref "10-11-2022">}})|
+|08. Des |Alice Hedenlund |TBA|

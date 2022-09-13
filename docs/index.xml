@@ -9,20 +9,20 @@
     <lastBuildDate>Thu, 10 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://younghomseminar.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Global homotopy theory via lax limits</title>
-      <link>https://younghomseminar.github.io/posts/10-11-2022/</link>
+      <link>https://younghomseminar.github.io/posts/11-10-2022/</link>
       <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://younghomseminar.github.io/posts/10-11-2022/</guid>
+      <guid>https://younghomseminar.github.io/posts/11-10-2022/</guid>
       <description>Speaker: Sil Linskens - University of Bonn
 Abstract: Global equivariant stable homotopy theory is a formalism which admits applications to orbifold cohomology, elliptic cohomology and importantly equivariant stable homotopy theory. Many important equivariant spectra admit global refinements, and these refinements have led to theoretical advances and have aided in calculations. However not only does global homotopy theory admit applications to equivariant homotopy theory, but it seems reasonable to expect that global homotopy theory is in some sense determined by equivariant homotopy theory.</description>
     </item>
     
     <item>
       <title>Dimensions of colimits</title>
-      <link>https://younghomseminar.github.io/posts/15-09-2022/</link>
+      <link>https://younghomseminar.github.io/posts/09-15-2022/</link>
       <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://younghomseminar.github.io/posts/15-09-2022/</guid>
+      <guid>https://younghomseminar.github.io/posts/09-15-2022/</guid>
       <description>Speaker: Maxime Ramzi – Unversity of Copenhagen
 Abstract: We use the Hochschild-homological interpretation of dimensions and more generally traces in symmetric monoidal $\infty$-categories to produce formulas for dimensions and traces of colimits over sufficiently nice spaces.
 These formulas specialize on the one hand to the very classical character-theoretic formulas for dimensions of coinvariants in the case of vector spaces in characteristic $0$ and when the space is $BG$ for some finite group $G$; and on the other hand to the Blumberg-Cohen-Schlichtkrull formula for topological Hochschild homology of Thom spectra.</description>
@@ -30,10 +30,10 @@ These formulas specialize on the one hand to the very classical character-theore
     
     <item>
       <title>Polygons and TR with coefficients</title>
-      <link>https://younghomseminar.github.io/posts/01-09-2022/</link>
+      <link>https://younghomseminar.github.io/posts/09-01-2022/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://younghomseminar.github.io/posts/01-09-2022/</guid>
+      <guid>https://younghomseminar.github.io/posts/09-01-2022/</guid>
       <description>Speaker: Jonas McCandless - University of Münster
 Abstract: I will introduce the notion of a polygonic spectrum which is a multi-object version of the notion of a cyclotomic spectrum indexed by polygons rather than the circle. This is designed to capture the structure on topological Hochschild homology of a ring with coefficients in a bimodule. Using this, I will explain the construction of TR with coefficients and explain how this is equipped with compatible Frobenius and Verschiebung maps.</description>
     </item>
@@ -57,7 +57,7 @@ The talks can be either expository or research based, but should contain at leas
       
       <guid>https://younghomseminar.github.io/schedule/</guid>
       <description>All talks are given at 2pm GMT.
-   Date Speaker Title     01. Sept Jonas McCandless Polygons and TR with coefficients   15. Sept Maxime Ramzi Dimensions of colimits   29. Sept Andrea Lachmann TBA   13. Oct Alicia Lima TBA   27. Oct Shaul Barkan TBA   10. Nov Sil Linskens Global homotopy theory via lax limits   08.</description>
+   Date Speaker Title     15. Sept Maxime Ramzi Dimensions of colimits   29. Sept Andrea Lachmann TBA   13. Oct Alicia Lima TBA   27. Oct Shaul Barkan TBA   10. Nov Sil Linskens Global homotopy theory via lax limits   24. Nov Morgan Opie TBA   08. Des Alice Hedenlund TBA    </description>
     </item>
     
     

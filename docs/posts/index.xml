@@ -18,6 +18,17 @@ Abstract: Global equivariant stable homotopy theory is a formalism which admits 
     </item>
     
     <item>
+      <title>Localization theorem for the algebraic K-theory of stable infinity-categories</title>
+      <link>https://younghomseminar.github.io/posts/09-29-2022/</link>
+      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://younghomseminar.github.io/posts/09-29-2022/</guid>
+      <description>Speaker: Andrea Lachmann - University of Wuppertal
+Abstract: The Localisation Theorem is a classical result by Quillen, which for any localisation of rings yields a long exact sequence of K-groups. In this talk we will define the algebraic K-theory functor from stable $\infty$-categories to spaces or spectra, and produce an analogue of the localisation theorem for this setting.
+I have already given a short talk on this topic at the YTM, but this time I will go a lot more into detail, so you can still learn something new even if you attended my previous talk.</description>
+    </item>
+    
+    <item>
       <title>Dimensions of colimits</title>
       <link>https://younghomseminar.github.io/posts/09-15-2022/</link>
       <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>

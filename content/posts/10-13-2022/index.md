@@ -1,6 +1,6 @@
 ---
 title: "On Brauer Groups of Lubin-Tate Spectra"
-date: 2022-11-10
+date: 2022-10-13
 draft: false
 math: true
 showtoc: false

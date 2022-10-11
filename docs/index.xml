@@ -38,6 +38,16 @@ Abstract: Global equivariant stable homotopy theory is a formalism which admits 
     </item>
     
     <item>
+      <title>On Brauer Groups of Lubin-Tate Spectra</title>
+      <link>https://younghomseminar.github.io/posts/10-13-2022/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://younghomseminar.github.io/posts/10-13-2022/</guid>
+      <description>Speaker: Alicia Lima – University of Chicago
+Abstract: Brauer groups and Azumaya algebras play an important role in many areas of mathematics. For instance, Antieau and Gepner showed that the Brauer group of the sphere spectrum $\mathbb{S}$ is zero, giving us the rigidity result for $\mathbb{S}$-modules. In this talk, I will walk you through Hopkins and Lurie&amp;rsquo;s computation (up to a filtration) of the Brauer groups of Lubin-Tate spectra, which are important building blocks in Chromatic Homotopy Theory.</description>
+    </item>
+    
+    <item>
       <title>Localization theorem for the algebraic K-theory of stable infinity-categories</title>
       <link>https://younghomseminar.github.io/posts/09-29-2022/</link>
       <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
@@ -88,7 +98,7 @@ The talks can be either expository or research based, but should contain at leas
       
       <guid>https://younghomseminar.github.io/schedule/</guid>
       <description>All talks are given at 2pm GMT.
-   Date Speaker Title     13. Oct Alicia Lima TBA   27. Oct Shaul Barkan TBA   10. Nov Sil Linskens Global homotopy theory via lax limits   22. Nov Morgan Opie TBA   08. Dec Alice Hedenlund TBA   05. Jan Sebastian Chenery The rational homotopy type of homotopy fibers over connected sums   19.</description>
+   Date Speaker Title     13. Oct Alicia Lima On Brauer Groups of Lubin-Tate Spectra   27. Oct Shaul Barkan TBA   10. Nov Sil Linskens Global homotopy theory via lax limits   22. Nov Morgan Opie TBA   08. Dec Alice Hedenlund TBA   05. Jan Sebastian Chenery The rational homotopy type of homotopy fibers over connected sums   19.</description>
     </item>
     
     

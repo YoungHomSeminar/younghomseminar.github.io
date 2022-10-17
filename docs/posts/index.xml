@@ -38,6 +38,16 @@ Abstract: Global equivariant stable homotopy theory is a formalism which admits 
     </item>
     
     <item>
+      <title>Chromatic homotopy is multiplicatively algebraic at large primes</title>
+      <link>https://younghomseminar.github.io/posts/10-27-2022/</link>
+      <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://younghomseminar.github.io/posts/10-27-2022/</guid>
+      <description>Speaker: Shaul Barkan - Hebrew University of Jerusalem
+Abstract: Stable homotopy theory is intimately related to the geometry of formal groups through the Adams Novkiov spectral sequence. Franke took a step towards making this analogy precise by introducing a derived category of certain sheaves on the moduli stack of formal groups as an analog of the $\infty$-category of spectra of chromatic height $\leq h$. He conjectured that at primes sufficiently larger than the height the homotopy truncation of the two categories coincide.</description>
+    </item>
+    
+    <item>
       <title>On Brauer Groups of Lubin-Tate Spectra</title>
       <link>https://younghomseminar.github.io/posts/10-13-2022/</link>
       <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>

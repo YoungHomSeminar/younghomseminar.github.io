@@ -11,8 +11,7 @@ All talks are given at 2pm GMT.
 
 |Date    |Speaker          |Title|
 |--------|-----------------|-----|
-|13. Oct |Alicia Lima      |[On Brauer Groups of Lubin-Tate Spectra]({{<ref "10-13-2022">}})|
-|27. Oct |Shaul Barkan     |TBA|
+|27. Oct |Shaul Barkan     |[Chromatic homotopy is multiplicatively algebraic at large primes]({{<ref "10-27-2022">}})|
 |10. Nov |Sil Linskens     |[Global homotopy theory via lax limits]({{<ref "11-10-2022">}})|
 |22. Nov |Morgan Opie      |TBA|
 |08. Dec |Alice Hedenlund  |TBA|

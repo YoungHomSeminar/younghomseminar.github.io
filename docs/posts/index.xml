@@ -18,13 +18,13 @@ Abstract: If $X$ is a spectrum, then the cohomology groups $H^*(X;\mathbb{F}_ 2)
     </item>
     
     <item>
-      <title>The rational homotopy type of homotopy fibers over connected sums</title>
+      <title>On pushout-pullback fibrations</title>
       <link>https://younghomseminar.github.io/posts/01-05-2023/</link>
       <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://younghomseminar.github.io/posts/01-05-2023/</guid>
       <description>Speaker: Sebastian Chenery - University of Southampton
-Abstract: We provide a simple condition on rational cohomology for the total space of a pullback fibration over a connected sum to have the rational homotopy type of a connected sum, after looping. This takes inspiration from recent work of Jeffrey and Selick, in which they study pullback fibrations of this type, but under stronger hypotheses compared to our result.</description>
+Abstract: We will discuss recent work inspired by a paper of Jeffrey and Selick, where they ask whether the pullback bundle over a connected sum can itself be homeomorphic to a connected sum. We provide a framework to tackle this question through classical homotopy theory, before pivoting to rational homotopy theory to give an answer after taking based loop spaces.</description>
     </item>
     
     <item>

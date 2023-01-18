@@ -16,4 +16,4 @@ All talks are given at 3pm GMT.
 |16. Feb |Torgeir Aambø    |TBA|
 |02. Mar |Sergei Burkin    |TBA|
 |16. Mar |Ben Spitz        |TBA|
-|30. Mar |Sarah Peterson   |TBA|
+|30. Mar |Sarah Petersen   |TBA|

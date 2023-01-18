@@ -6,7 +6,17 @@
     <description>Recent content on YoungHom</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright> </copyright>
-    <lastBuildDate>Thu, 19 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://younghomseminar.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://younghomseminar.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Parameterized stability and the universal property of global spectra</title>
+      <link>https://younghomseminar.github.io/posts/02-02-2023/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://younghomseminar.github.io/posts/02-02-2023/</guid>
+      <description>Speaker: Bastiaan Cnossen - Hausdorff Research Institute for Mathematics
+Abstract: Categories of equivariant objects (representations, equivariant spectra, equivariant Kasparov categories, etcetera) often exist globally for all finite groups, interrelated by restriction functors which restrict the group action. Frequently, there are also induction​ functors in the other direction, which are both left and right adjoint to the restriction functors. One may see this as an equivariant analogue of the existence of biproducts in a category.</description>
+    </item>
+    
     <item>
       <title>Fp-spectra and Real-oriented homotopy theory</title>
       <link>https://younghomseminar.github.io/posts/01-19-2023/</link>
@@ -128,7 +138,7 @@ The talks can be either expository or research based, but should contain at leas
       
       <guid>https://younghomseminar.github.io/schedule/</guid>
       <description>All talks are given at 3pm GMT.
-   Date Speaker Title     19. Jan Christian Carrick Fp-spectra and Real-oriented homotopy theory   02. Feb Bastiaan Cnossen TBA   02. Mar Sergei Burkin TBA   16. Mar Ben Spitz TBA    </description>
+   Date Speaker Title     19. Jan Christian Carrick Fp-spectra and Real-oriented homotopy theory   02. Feb Bastiaan Cnossen Parameterized stability and the universal property of global spectra   16. Feb Torgeir Aambø TBA   02. Mar Sergei Burkin TBA   16. Mar Ben Spitz TBA   30. Mar Sarah Peterson TBA    </description>
     </item>
     
     

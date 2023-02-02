@@ -6,7 +6,17 @@
     <description>Recent content on YoungHom</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright> </copyright>
-    <lastBuildDate>Thu, 02 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://younghomseminar.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://younghomseminar.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Algebraicity in monochromatic homotopy theory</title>
+      <link>https://younghomseminar.github.io/posts/2023-02-16/</link>
+      <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://younghomseminar.github.io/posts/2023-02-16/</guid>
+      <description>Speaker: Torgeir Aambø – Norwegian University of Science and Technology
+Abstract: Chromatic homotopy theory views the stable homotopy category as certain nicely behaved layers glued together along formal neighborhoods. These are respectively described by the famous Morava E-theories $E(n)$ and Morava K-theories $K(n)$. We can single out one of these layers – in some sense reducing the entire colorful spectrum down to a single chroma – giving us monochromatic homotopy theory.</description>
+    </item>
+    
     <item>
       <title>Parameterized stability and the universal property of global spectra</title>
       <link>https://younghomseminar.github.io/posts/2023-02-02/</link>
@@ -138,7 +148,7 @@ The talks can be either expository or research based, but should contain at leas
       
       <guid>https://younghomseminar.github.io/schedule/</guid>
       <description>All talks are given at 3pm GMT.
-   Date Speaker Title     19. Jan Christian Carrick Fp-spectra and Real-oriented homotopy theory   02. Feb Bastiaan Cnossen Parameterized stability and the universal property of global spectra   16. Feb Torgeir Aambø TBA   02. Mar Sergei Burkin TBA   16. Mar Ben Spitz TBA   30. Mar Sarah Petersen TBA    </description>
+   Date Speaker Title     02. Feb Bastiaan Cnossen Parameterized stability and the universal property of global spectra   16. Feb Torgeir Aambø Algebraicity in monochromatic homotopy theory   02. Mar Sergei Burkin TBA   16. Mar Ben Spitz TBA   30. Mar Sarah Petersen TBA   14. Apr Liam Keenan TBA   27.</description>
     </item>
     
     

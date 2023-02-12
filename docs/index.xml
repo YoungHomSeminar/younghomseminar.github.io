@@ -6,7 +6,17 @@
     <description>Recent content on YoungHom</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright> </copyright>
-    <lastBuildDate>Thu, 16 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://younghomseminar.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://younghomseminar.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Twisted arrow categories of operads and Segal conditions</title>
+      <link>https://younghomseminar.github.io/posts/2023-03-02/</link>
+      <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://younghomseminar.github.io/posts/2023-03-02/</guid>
+      <description>Speaker: Sergei Burkin – Pontifical Catholic University of Rio de Janeiro
+Abstract: Several well-known categories, including simplex category $\Delta$, Joyal&amp;rsquo;s categories $\Theta_n$, Segal&amp;rsquo;s category $\Gamma$ and Moerdijk-Weiss dendroidal category $\Omega$, allow to encode homotopy coherent structures via Segal conditions. We show that most of these categories arise from operads in a canonical way, namely, via the only natural generalization of Quillen&amp;rsquo;s twisted arrow category construction to operads. This construction gives a good context for these categories.</description>
+    </item>
+    
     <item>
       <title>Algebraicity in monochromatic homotopy theory</title>
       <link>https://younghomseminar.github.io/posts/2023-02-16/</link>
@@ -148,7 +158,7 @@ The talks can be either expository or research based, but should contain at leas
       
       <guid>https://younghomseminar.github.io/schedule/</guid>
       <description>All talks are given at 3pm GMT.
-   Date Speaker Title     02. Feb Bastiaan Cnossen Parameterized stability and the universal property of global spectra   16. Feb Torgeir Aambø Algebraicity in monochromatic homotopy theory   02. Mar Sergei Burkin TBA   16. Mar Ben Spitz TBA   30. Mar Sarah Petersen TBA   14. Apr Liam Keenan TBA   27.</description>
+   Date Speaker Title     16. Feb Torgeir Aambø Algebraicity in monochromatic homotopy theory   02. Mar Sergei Burkin Twisted arrow categories of operads and Segal conditions   16. Mar Ben Spitz TBA   30. Mar Sarah Petersen TBA   14. Apr Liam Keenan TBA   27. Apr Julius Frank TBA    </description>
     </item>
     
     

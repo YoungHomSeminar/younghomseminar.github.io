@@ -11,7 +11,6 @@ All talks are given at 3pm GMT.
 
 |Date    |Speaker          |Title|
 |--------|-----------------|-----|
-|16. Feb |Torgeir Aambø    |[Algebraicity in monochromatic homotopy theory]({{<ref "2023-02-16">}})|
 |02. Mar |Sergei Burkin    |[Twisted arrow categories of operads and Segal conditions]({{<ref "2023-03-02">}})|
 |16. Mar |Ben Spitz        |TBA|
 |30. Mar |Sarah Petersen   |TBA|

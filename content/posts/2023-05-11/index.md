@@ -1,6 +1,6 @@
 ---
 title: "Twisted arrow categories of operads and Segal conditions"
-date: 2023-03-02
+date: 2023-05-11
 draft: false
 math: true
 showtoc: false

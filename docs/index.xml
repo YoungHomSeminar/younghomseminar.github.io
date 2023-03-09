@@ -6,15 +6,25 @@
     <description>Recent content on YoungHom</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright> </copyright>
-    <lastBuildDate>Thu, 02 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://younghomseminar.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://younghomseminar.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Twisted arrow categories of operads and Segal conditions</title>
-      <link>https://younghomseminar.github.io/posts/2023-03-02/</link>
-      <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
+      <link>https://younghomseminar.github.io/posts/2023-05-11/</link>
+      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://younghomseminar.github.io/posts/2023-03-02/</guid>
+      <guid>https://younghomseminar.github.io/posts/2023-05-11/</guid>
       <description>Speaker: Sergei Burkin – Pontifical Catholic University of Rio de Janeiro
 Abstract: Several well-known categories, including simplex category $\Delta$, Joyal&amp;rsquo;s categories $\Theta_n$, Segal&amp;rsquo;s category $\Gamma$ and Moerdijk-Weiss dendroidal category $\Omega$, allow to encode homotopy coherent structures via Segal conditions. We show that most of these categories arise from operads in a canonical way, namely, via the only natural generalization of Quillen&amp;rsquo;s twisted arrow category construction to operads. This construction gives a good context for these categories.</description>
+    </item>
+    
+    <item>
+      <title>Mackey and Tambara functors over LCC categories</title>
+      <link>https://younghomseminar.github.io/posts/2023-03-16/</link>
+      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://younghomseminar.github.io/posts/2023-03-16/</guid>
+      <description>Speaker: Ben Spitz – University of California, Los Angeles
+Abstract: Mackey and Tambara functors are equivariant generalizations of abelian groups and commutative rings, respectively. What this actually means is that, in equivariant homotopy theory, Mackey functors appear wherever one would expect to find abelian groups, and Tambara functors appear wherever one would expect to find commutative rings. However, the theories of Mackey and Tambara functors are comparatively much less developed than those of abelian groups and commutative rings.</description>
     </item>
     
     <item>
@@ -158,7 +168,7 @@ The talks can be either expository or research based, but should contain at leas
       
       <guid>https://younghomseminar.github.io/schedule/</guid>
       <description>All talks are given at 3pm GMT.
-   Date Speaker Title     16. Mar Ben Spitz TBA   30. Mar Sarah Petersen TBA   14. Apr Liam Keenan TBA   27. Apr Julius Frank TBA   11. May Sergei Burkin Twisted arrow categories of operads and Segal conditions    </description>
+   Date Speaker Title     16. Mar Ben Spitz Mackey and Tambara functors over LCC categories   30. Mar Sarah Petersen TBA   14. Apr Liam Keenan TBA   27. Apr Julius Frank TBA   11. May Sergei Burkin Twisted arrow categories of operads and Segal conditions    </description>
     </item>
     
     

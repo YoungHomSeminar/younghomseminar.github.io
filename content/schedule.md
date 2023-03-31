@@ -11,8 +11,6 @@ All talks are given at 3pm GMT.
 
 |Date    |Speaker          |Title|
 |--------|-----------------|-----|
-|16. Mar |Ben Spitz        |[Mackey and Tambara functors over LCC categories]({{<ref "2023-03-16">}})|
-|30. Mar |Sarah Petersen   |[Brown-Gitler Spectra: An introduction and some current research directions]({{<ref "2023-03-30">}})|
 |14. Apr |Liam Keenan      |TBA|
 |27. Apr |Julius Frank     |TBA|
 |11. May |Sergei Burkin    |[Twisted arrow categories of operads and Segal conditions]({{<ref "2023-05-11">}})|

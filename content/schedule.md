@@ -14,3 +14,4 @@ All talks are given at 3pm GMT.
 |14. Apr |Liam Keenan      |TBA|
 |27. Apr |Julius Frank     |TBA|
 |11. May |Sergei Burkin    |[Twisted arrow categories of operads and Segal conditions]({{<ref "2023-05-11">}})|
+|25. May |Andrei Konovalov |[Semi-topological K-theory of dg-algebras and the lattice conjecture]({{<ref "2023-05-25">}})

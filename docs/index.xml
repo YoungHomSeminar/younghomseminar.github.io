@@ -6,7 +6,17 @@
     <description>Recent content on YoungHom</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright> </copyright>
-    <lastBuildDate>Thu, 11 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://younghomseminar.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://younghomseminar.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Semi-topological K-theory of dg-algebras and the lattice conjecture</title>
+      <link>https://younghomseminar.github.io/posts/2023-05-25/</link>
+      <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://younghomseminar.github.io/posts/2023-05-25/</guid>
+      <description>Speaker: Andrei Konovalov – University of Duisburg-Essen
+Abstract: I will discuss the problem of constructing a natural rational structure on periodic cyclic homology of dg-algebras and dg-categories. The promising candidate is A. Blanc’s topological K-theory. I will show that it, indeed, provides a rational structure in a number of cases and I will discuss its structural properties and possible applications.</description>
+    </item>
+    
     <item>
       <title>Twisted arrow categories of operads and Segal conditions</title>
       <link>https://younghomseminar.github.io/posts/2023-05-11/</link>
@@ -178,7 +188,7 @@ The talks can be either expository or research based, but should contain at leas
       
       <guid>https://younghomseminar.github.io/schedule/</guid>
       <description>All talks are given at 3pm GMT.
-   Date Speaker Title     14. Apr Liam Keenan TBA   27. Apr Julius Frank TBA   11. May Sergei Burkin Twisted arrow categories of operads and Segal conditions    </description>
+   Date Speaker Title     14. Apr Liam Keenan TBA   27. Apr Julius Frank TBA   11. May Sergei Burkin Twisted arrow categories of operads and Segal conditions   25. May Andrei Konovalov Semi-topological K-theory of dg-algebras and the lattice conjecture    </description>
     </item>
     
     

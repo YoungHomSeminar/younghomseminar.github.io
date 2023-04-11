@@ -28,6 +28,16 @@ Abstract: Several well-known categories, including simplex category $\Delta$, Jo
     </item>
     
     <item>
+      <title>THR of Poincaré infinity-categories</title>
+      <link>https://younghomseminar.github.io/posts/2023-04-13/</link>
+      <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://younghomseminar.github.io/posts/2023-04-13/</guid>
+      <description>Speaker: Julie Rasmusen – University of Warwick
+Abstract: In recent years work by Calmés-Dotto-Harpaz-Hebestreit-Land-Moi-Nardin-Nikolaus-Steimle have moved the theory of Hermitian K-theory into the framework of stable $\infty$-categories. I will introduce the basic ideas and notions of this new theory and introduce a tool which can help us understand this better: Real Topological Hochschild Homology. I will then explain the ingredients that goes into constructing the geometric fixed points of this THR as a functor, generalising the formula for ring spectra with anti-involution of Dotto-Moi-Patchkoria-Reeh.</description>
+    </item>
+    
+    <item>
       <title>Brown-Gitler Spectra: An introduction and some current research directions</title>
       <link>https://younghomseminar.github.io/posts/2023-03-30/</link>
       <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
@@ -188,7 +198,7 @@ The talks can be either expository or research based, but should contain at leas
       
       <guid>https://younghomseminar.github.io/schedule/</guid>
       <description>All talks are given at 3pm GMT.
-   Date Speaker Title     14. Apr Liam Keenan TBA   27. Apr Julius Frank TBA   11. May Sergei Burkin Twisted arrow categories of operads and Segal conditions   25. May Andrei Konovalov Semi-topological K-theory of dg-algebras and the lattice conjecture    After May 25th the seminar will take a summer holiday, but will return the next academic year!</description>
+   Date Speaker Title     13. Apr Julie Rasmusen THR of Poincaré $\infty$-categories   27. Apr Julius Frank TBA   11. May Sergei Burkin Twisted arrow categories of operads and Segal conditions   25. May Andrei Konovalov Semi-topological K-theory of dg-algebras and the lattice conjecture    After May 25th the seminar will take a summer holiday, but will return the next academic year!</description>
     </item>
     
     

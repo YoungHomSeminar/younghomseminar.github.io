@@ -11,7 +11,6 @@ All talks are given at 3pm GMT.
 
 |Date    |Speaker          |Title|
 |--------|-----------------|-----|
-|13. Apr |Julie Rasmusen   |[THR of Poincaré $\infty$-categories]({{<ref "2023-04-13">}})|
 |27. Apr |Julius Frank     |TBA|
 |11. May |Sergei Burkin    |[Twisted arrow categories of operads and Segal conditions]({{<ref "2023-05-11">}})|
 |25. May |Andrei Konovalov |[Semi-topological K-theory of dg-algebras and the lattice conjecture]({{<ref "2023-05-25">}})

@@ -28,6 +28,17 @@ Abstract: Several well-known categories, including simplex category $\Delta$, Jo
     </item>
     
     <item>
+      <title>DGAs with polynomial homology and $E_1$-quotients</title>
+      <link>https://younghomseminar.github.io/posts/2023-04-27/</link>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://younghomseminar.github.io/posts/2023-04-27/</guid>
+      <description>Speaker: Julius Frank – University of Aberdeen
+Abstract: Differential graded algebras whose homology is a graded polynomial algebra in one variable are surprisingly sparse. One example can be obtained by taking the derived $E_1$-quotient of a commutative ring by some prime $p$. This construction also shows up in some algebraic K-theory calculations, which motivates investigating this algebra with trace methods.
+Examples are necessarily non-commutative: I will explain how all $E_2$-DGAs with polynomial homology over a fixed perfect ring are equivalent as ring spectra.</description>
+    </item>
+    
+    <item>
       <title>THR of Poincaré infinity-categories</title>
       <link>https://younghomseminar.github.io/posts/2023-04-13/</link>
       <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
@@ -198,7 +209,7 @@ The talks can be either expository or research based, but should contain at leas
       
       <guid>https://younghomseminar.github.io/schedule/</guid>
       <description>All talks are given at 3pm GMT.
-   Date Speaker Title     27. Apr Julius Frank TBA   11. May Sergei Burkin Twisted arrow categories of operads and Segal conditions   25. May Andrei Konovalov Semi-topological K-theory of dg-algebras and the lattice conjecture    After May 25th the seminar will take a summer holiday, but will return the next academic year!</description>
+   Date Speaker Title     27. Apr Julius Frank DGAs with polynomial homology and $E_1$-quotients   11. May Sergei Burkin Twisted arrow categories of operads and Segal conditions   25. May Andrei Konovalov Semi-topological K-theory of dg-algebras and the lattice conjecture    After May 25th the seminar will take a summer holiday, but will return the next academic year!</description>
     </item>
     
     

@@ -11,6 +11,6 @@ All talks are given at 3pm GMT.
 
 |Date    |Speaker          |Title|
 |--------|-----------------|-----|
-|25. May |Andrei Konovalov |[Semi-topological K-theory of dg-algebras and the lattice conjecture]({{<ref "2023-05-25">}})
+|TBA     |TBA              |TBA  |
 
-After May 25th the seminar will take a summer holiday, but will return the next academic year! 
+The YoungHom seminar is currently on summer break, but will be back again next semester! 

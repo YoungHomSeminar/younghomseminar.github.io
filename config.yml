@@ -35,7 +35,7 @@ menu:
         url: archives/
         weight: 10
       - name: Sign up
-        url: "https://docs.google.com/forms/d/e/1FAIpQLSfUHSWNDzNwApwbQTMPK8IoVcUKXucg5M792ivbCYiiEtmmpQ/viewform"
+        url: "https://forms.gle/ULs3gJjLnu7LcYxr9"
         weight: 15    
       - name: About
         url: about/

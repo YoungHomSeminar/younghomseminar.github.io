@@ -7,10 +7,11 @@ ShowReadingTime: false
 katex: true
 ---
 
-All talks are given at 3pm GMT. 
+The specific time for the academic year 2023/2024 is still to be determined. 
 
 |Date    |Speaker          |Title|
 |--------|-----------------|-----|
 |TBA     |TBA              |TBA  |
 
-The YoungHom seminar is currently on summer break, but will be back again next semester! 
+
+ 

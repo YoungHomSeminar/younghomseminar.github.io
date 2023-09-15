@@ -7,11 +7,12 @@ ShowReadingTime: false
 katex: true
 ---
 
-The specific time for the academic year 2023/2024 is still to be determined. 
+All talks are held online every other thursdays at 2PM GMT, unless otherwise stated. 
 
 |Date    |Speaker          |Title|
 |--------|-----------------|-----|
-|TBA     |TBA              |TBA  |
+|05.10.23|Maxime Ramzi     |[An introduction to dualizable categories]({{<ref "2023-10-05">}})|
+|19.10.23|Kaya Arro        |[FI-calculus and representation stability]({{<ref "2023-10-19">}})|
 
 
  

@@ -6,7 +6,27 @@
     <description>Recent content in Posts on YoungHom</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright> </copyright>
-    <lastBuildDate>Thu, 25 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://younghomseminar.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://younghomseminar.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FI-calculus and representation stability</title>
+      <link>https://younghomseminar.github.io/posts/2023-10-19/</link>
+      <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://younghomseminar.github.io/posts/2023-10-19/</guid>
+      <description>Speaker: Kaya Arro – University of California Riverside
+Abstract: Representation stability is a regularity property enjoyed by the homology of many naturally arising objects indexed by the category of finite sets and injections. It turns out, any such FI-object in a presentable stable infinity-category admits a Taylor tower of approximations by representation stable FI-objects. From this Taylor tower, one obtains Taylor coefficients as well as natural transformations between these coefficients, and, assuming the vanishing of a Tate construction (satisfied e.</description>
+    </item>
+    
+    <item>
+      <title>An introduction to dualizable categories</title>
+      <link>https://younghomseminar.github.io/posts/2023-10-05/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://younghomseminar.github.io/posts/2023-10-05/</guid>
+      <description>Speaker: Maxime Ramzi – University of Copenhagen
+Abstract: In this talk, I will give a general introduction to the theory of dualizable presentable categories, as is currently being developped by Efimov and others for K-theoretic purposes. The goal is to talk about generalities, with an end goal to prove that the category of dualizable categories is itself presentable.</description>
+    </item>
+    
     <item>
       <title>Semi-topological K-theory of dg-algebras and the lattice conjecture</title>
       <link>https://younghomseminar.github.io/posts/2023-05-25/</link>

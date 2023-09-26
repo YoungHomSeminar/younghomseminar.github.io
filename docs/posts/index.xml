@@ -6,7 +6,17 @@
     <description>Recent content in Posts on YoungHom</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright> </copyright>
-    <lastBuildDate>Thu, 19 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://younghomseminar.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://younghomseminar.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Atiyah-Bott-Shapiro map and the interacting classification of free fermions</title>
+      <link>https://younghomseminar.github.io/posts/2023-11-02/</link>
+      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://younghomseminar.github.io/posts/2023-11-02/</guid>
+      <description>Speaker: Arun Debray – Purdue University
+Abstract: The Atiyah-Bott-Shapiro map $\widehat{A}\colon MSpin \longrightarrow KO$ is the preeminent example of an orientation in stable homotopy theory. In the first part of this talk, I will describe the data of $\widehat{A}$: what are $MSpin$ and $KO$, and what is the map between them? In the second half of the talk, I will describe how $\widehat{A}$ and some of its variants provide a mathematical model for the classification of topological phases of matter with free fermion Hamiltonians.</description>
+    </item>
+    
     <item>
       <title>FI-calculus and representation stability</title>
       <link>https://younghomseminar.github.io/posts/2023-10-19/</link>

@@ -36,10 +36,13 @@ menu:
         weight: 10
       - name: Sign up
         url: "https://forms.gle/ULs3gJjLnu7LcYxr9"
-        weight: 15    
+        weight: 15
+      - name: Recordings
+        url: "https://www.youtube.com/@Young-HOM"
+        weight: 20 
       - name: About
         url: about/
-        weight: 20     
+        weight: 25     
 
 
 

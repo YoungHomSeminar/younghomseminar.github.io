@@ -11,7 +11,6 @@ All talks are held online every other thursdays at 2PM GMT, unless otherwise sta
 
 |Date    |Speaker          |Title|
 |--------|-----------------|-----|
-|23.10.23|Jack Davies      |[Equivariant elliptic cohomology]({{<ref "2023-10-23">}})|
 |02.11.23|Arun Debray      |[The Atiyah-Bott-Shapiro map and the interacting classification of free fermions]({{<ref "2023-11-02">}})|
 |16.11.23|Itamar Mor       |[Profinite galois descent]({{<ref "2023-11-16">}})|
 |20.11.23|Qi Zhu           |Fractured structures on condensed anima|

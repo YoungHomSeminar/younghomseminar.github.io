@@ -7,7 +7,7 @@ ShowReadingTime: false
 katex: true
 ---
 
-All talks are held online every other thursdays at 2PM GMT, unless otherwise stated. 
+All talks are held online every other thursdays at 3PM GMT, unless otherwise stated. 
 
 |Date    |Speaker          |Title|
 |--------|-----------------|-----|

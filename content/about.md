@@ -8,19 +8,19 @@ math: true
 
 The goal of this online seminar is to provide a meeting space for Early-Career Researchers in homotopy theory, where they can share their research with like-minded peers. All Early-Career Researchers are welcome to participate, which includes any incoming and current PhD students, as well as anyone within five years of graduation. 
 
-All talks are held online every other thursdays at 2PM GMT, unless otherwise stated. Some of the talks are being recorded. All recordings can be found [here](https://www.youtube.com/@Young-HOM). 
+All talks are held online every other thursdays at 3PM GMT, unless otherwise stated. Some of the talks are being recorded. All recordings can be found [here](https://www.youtube.com/@Young-HOM). 
 
 
 
 ### Time-zone conversion
 
-2PM in GMT is:
-- 7AM Pacific Time (GMT-7)
-- 8AM Mountain Time (GMT-6)
-- 9AM Central Time (GMT-5)
-- 10AM Eastern Time (GMT-4)
-- 3PM London (GMT+1)
-- 4PM Copenhagen (GMT+2)
+3PM in GMT is:
+- 7AM Pacific Time (GMT-8)
+- 8AM Mountain Time (GMT-7)
+- 9AM Central Time (GMT-6)
+- 10AM Eastern Time (GMT-5)
+- 3PM London (GMT)
+- 4PM Copenhagen (GMT+1)
 
 ### Information and contact
 

@@ -6,7 +6,27 @@
     <description>Recent content in Posts on YoungHom</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright> </copyright>
-    <lastBuildDate>Thu, 16 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://younghomseminar.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://younghomseminar.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Enriched Segal categories</title>
+      <link>https://younghomseminar.github.io/posts/2023-14-12/</link>
+      <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://younghomseminar.github.io/posts/2023-14-12/</guid>
+      <description>Speaker: Violeta Borges Marques – University of Antwerp
+Abstract: TBA</description>
+    </item>
+    
+    <item>
+      <title>Fractured structures on condensed anima</title>
+      <link>https://younghomseminar.github.io/posts/2023-11-20/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://younghomseminar.github.io/posts/2023-11-20/</guid>
+      <description>Speaker: Qi Zhu – University of Bonn
+Abstract: We compare notions generalizing features of topology, namely condensed mathematics and cohesive resp. fractured structures on topoi. After introducing/recalling the theory of condensed mathematics and cohesive resp. fractured topoi, we discuss their interrelations. Once we have seen that cohesion is not sensible on the $\infty$-topos of condensed anima $\mathbf{Cond(An)}$ we provide a fractured structure on $\mathbf{Cond(An)}$. We apply this to compare sheaf cohomology and condensed cohomology and show that for the corporeal objects of the fractured structure which are also topological spaces the cohomologies agree.</description>
+    </item>
+    
     <item>
       <title>Profinite Galois descent</title>
       <link>https://younghomseminar.github.io/posts/2023-11-16/</link>

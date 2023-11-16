@@ -1,6 +1,6 @@
 ---
 title: "Fractured structures on condensed anima"
-date: 2023-11-30
+date: 2023-11-20
 draft: false
 math: true
 showtoc: false

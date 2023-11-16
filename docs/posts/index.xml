@@ -6,21 +6,21 @@
     <description>Recent content in Posts on YoungHom</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright> </copyright>
-    <lastBuildDate>Thu, 14 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://younghomseminar.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://younghomseminar.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Enriched Segal categories</title>
-      <link>https://younghomseminar.github.io/posts/2023-14-12/</link>
-      <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
+      <title>Homotopy theory in condenced mathematics</title>
+      <link>https://younghomseminar.github.io/posts/2023-11-30/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://younghomseminar.github.io/posts/2023-14-12/</guid>
-      <description>Speaker: Violeta Borges Marques – University of Antwerp
-Abstract: TBA</description>
+      <guid>https://younghomseminar.github.io/posts/2023-11-30/</guid>
+      <description>Speaker: Catrin Mair – Technical university of Darmstadt
+Abstract: The $\infty$-category $Cond(Ani)$ of condensed anima combines the homotopy theoretic direction of anima with the topological space direction of condensed sets. Hence, it is natural to ask for its role in homotopy theory. For instance, one can assign to every condensed anima a pro-homotopy type by which we can recover the &amp;ldquo;shape&amp;rdquo; of a sufficiently nice topological space. In my talk, I will focus on explaining how to define a refinement of the étale homotopy type of a scheme as an object in $Cond(Ani)$.</description>
     </item>
     
     <item>
       <title>Fractured structures on condensed anima</title>
       <link>https://younghomseminar.github.io/posts/2023-11-20/</link>
-      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>https://younghomseminar.github.io/posts/2023-11-20/</guid>
       <description>Speaker: Qi Zhu – University of Bonn

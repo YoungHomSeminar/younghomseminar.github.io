@@ -1,7 +1,7 @@
 ---
 title: "Enriched Segal categories"
 date: 2023-12-14
-draft: false
+draft: true
 math: true
 showtoc: false
 ---

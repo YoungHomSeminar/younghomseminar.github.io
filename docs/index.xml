@@ -6,14 +6,24 @@
     <description>Recent content on YoungHom</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright> </copyright>
-    <lastBuildDate>Thu, 30 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://younghomseminar.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://younghomseminar.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Homotopy theory in condenced mathematics</title>
+      <title>Fixed point and tilting</title>
+      <link>https://younghomseminar.github.io/posts/2024-01-29/</link>
+      <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://younghomseminar.github.io/posts/2024-01-29/</guid>
+      <description>Speaker: Vignesh Subramanian – Indian Statistical Institute, Kolkata
+Abstract: Given an $\mathbb{E}_{\infty}$-algebra $A$ over $\mathbb{F}_p$, just as in classical algebra, there exists a homotopically coherent version of Frobenius on $A$, called the Tate valued Frobenius $A \rightarrow A^{tC_p}$. In this talk, we recall the notion Frobenius perfect $\mathbb{F}_p$-algebra and construct a certain version of perfection $A^{\flat}$, we call this construction tilting and give an explicit formula for the computation of homotopy groups of the tilt via power operations.</description>
+    </item>
+    
+    <item>
+      <title>Homotopy theory in condensed mathematics</title>
       <link>https://younghomseminar.github.io/posts/2023-11-30/</link>
       <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>https://younghomseminar.github.io/posts/2023-11-30/</guid>
-      <description>Speaker: Catrin Mair – Technical university of Darmstadt
+      <description>Speaker: Catrin Mair – Technical University of Darmstadt
 Abstract: The $\infty$-category $Cond(Ani)$ of condensed anima combines the homotopy theoretic direction of anima with the topological space direction of condensed sets. Hence, it is natural to ask for its role in homotopy theory. For instance, one can assign to every condensed anima a pro-homotopy type by which we can recover the &amp;ldquo;shape&amp;rdquo; of a sufficiently nice topological space. In my talk, I will focus on explaining how to define a refinement of the étale homotopy type of a scheme as an object in $Cond(Ani)$.</description>
     </item>
     
@@ -280,7 +290,7 @@ All talks are held online every other thursdays at 3PM GMT, unless otherwise sta
       
       <guid>https://younghomseminar.github.io/schedule/</guid>
       <description>All talks are held online every other thursdays at 3PM GMT, unless otherwise stated.
-   Date Speaker Title     30.11.23 Catrin Mair Homotopy theory in condenced mathematics   14.12.23 Violeta Borges Marques Enriched Segal categories    </description>
+   Date Speaker Title     30.11.23 Catrin Mair Homotopy theory in condensed mathematics   14.12.23 Violeta Borges Marques Enriched Segal categories   29.01.24 Vignesh Subramanian Fixed point and tilting    </description>
     </item>
     
     

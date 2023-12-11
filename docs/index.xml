@@ -18,6 +18,16 @@ Abstract: Given an $\mathbb{E}_{\infty}$-algebra $A$ over $\mathbb{F}_p$, just a
     </item>
     
     <item>
+      <title>Enriched Segal categories</title>
+      <link>https://younghomseminar.github.io/posts/2023-14-12/</link>
+      <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://younghomseminar.github.io/posts/2023-14-12/</guid>
+      <description>Speaker: Violeta Borges Marques – University of Antwerp
+Abstract: The goal of this talk is to introduce enriched versions of Segal categories, and in particular, Segal dg-categories. I will start by reviewing the classical notion of Segal category and then I will introduce templicial objects following Lowen-Mertens as replacements for simplicial objects in a non-cartesian context, allowing me to arrive at the definition of Segal dg-category. After this, I will outline a strategy to obtain an adequate model structure for these objects, taking this chance to overview the category of Necklaces, and finally I will show the results we have so far been able to prove.</description>
+    </item>
+    
+    <item>
       <title>Homotopy theory in condensed mathematics</title>
       <link>https://younghomseminar.github.io/posts/2023-11-30/</link>
       <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
@@ -290,7 +300,7 @@ All talks are held online every other thursdays at 3PM GMT, unless otherwise sta
       
       <guid>https://younghomseminar.github.io/schedule/</guid>
       <description>All talks are held online every other thursdays at 3PM GMT, unless otherwise stated.
-   Date Speaker Title     30.11.23 Catrin Mair Homotopy theory in condensed mathematics   14.12.23 Violeta Borges Marques Enriched Segal categories   29.01.24 Vignesh Subramanian Fixed point and tilting    </description>
+   Date Speaker Title     14.12.23 Violeta Borges Marques Enriched Segal categories   29.01.24 Vignesh Subramanian Fixed point and tilting    </description>
     </item>
     
     

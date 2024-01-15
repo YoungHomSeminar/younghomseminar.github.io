@@ -6,7 +6,7 @@ math: true
 showtoc: false
 ---
 
-**Speaker:** [Ahina Nandy]() – Osnabrück University
+**Speaker:** [Ahina Nandy](https://www.mathematik.uni-osnabrueck.de/forschung/ag_topologie_und_geometrie/nandy_ahina.html) – Osnabrück University
 
 **Title:** An interpolation between the algebraic (co)bordism spectrum $MGL$, and the special linear algebraic (co)bordism spectrum $MSL$
 

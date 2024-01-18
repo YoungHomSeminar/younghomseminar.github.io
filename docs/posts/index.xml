@@ -6,7 +6,27 @@
     <description>Recent content in Posts on YoungHom</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright> </copyright>
-    <lastBuildDate>Mon, 29 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://younghomseminar.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://younghomseminar.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A colax monoidal approach to quasi-categories</title>
+      <link>https://younghomseminar.github.io/posts/2024-03-07/</link>
+      <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://younghomseminar.github.io/posts/2024-03-07/</guid>
+      <description>Speaker: Arne Mertens – University of Antwerp
+Abstract: I will introduce a candidate model for ($\infty$-)categories weakly enriched in simplicial objects, based on the Joyal model for quasi-categories. The main idea is to replace the category of simplicial sets by a category of certain colax monoidal functors, inspired by a result of Leinster and Bacard&amp;rsquo;s work on Segal enriched categories. We call them &amp;ldquo;templicial objects&amp;rdquo; and define quasi-categories analogously to the classical situation.</description>
+    </item>
+    
+    <item>
+      <title>On the sharpness conjecture for fusion systems</title>
+      <link>https://younghomseminar.github.io/posts/2024-02-08/</link>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://younghomseminar.github.io/posts/2024-02-08/</guid>
+      <description>Speaker: Marco Praderio Bova – Lancaster University
+Abstract: Fusion systems are categories that, in a sense, represent an abstraction of the $p$-local structure of a finite group. Mackey functors on the other hand are algebraic structures with induction, restriction and conjugation operations satisfying certain properties that seem to appear in a variety of different contexts such as representation theory, group cohomology or algebraic K-theory among others. Mackey functors can be related to a variety of different constructions including fusion systems and, when related to fusion systems, they can be viewed as a pair of a covariant and a contravariant functors.</description>
+    </item>
+    
     <item>
       <title>Fixed point and tilting</title>
       <link>https://younghomseminar.github.io/posts/2024-01-29/</link>
@@ -30,40 +50,40 @@ Abstract: Just like the universal complex oriented cohomology theory, complex co
     
     <item>
       <title>Enriched Segal categories</title>
-      <link>https://younghomseminar.github.io/posts/2023-14-12/</link>
+      <link>https://younghomseminar.github.io/posts/2023/2023-14-12/</link>
       <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://younghomseminar.github.io/posts/2023-14-12/</guid>
+      <guid>https://younghomseminar.github.io/posts/2023/2023-14-12/</guid>
       <description>Speaker: Violeta Borges Marques – University of Antwerp
 Abstract: The goal of this talk is to introduce enriched versions of Segal categories, and in particular, Segal dg-categories. I will start by reviewing the classical notion of Segal category and then I will introduce templicial objects following Lowen-Mertens as replacements for simplicial objects in a non-cartesian context, allowing me to arrive at the definition of Segal dg-category. After this, I will outline a strategy to obtain an adequate model structure for these objects, taking this chance to overview the category of Necklaces, and finally I will show the results we have so far been able to prove.</description>
     </item>
     
     <item>
       <title>Homotopy theory in condensed mathematics</title>
-      <link>https://younghomseminar.github.io/posts/2023-11-30/</link>
+      <link>https://younghomseminar.github.io/posts/2023/2023-11-30/</link>
       <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://younghomseminar.github.io/posts/2023-11-30/</guid>
+      <guid>https://younghomseminar.github.io/posts/2023/2023-11-30/</guid>
       <description>Speaker: Catrin Mair – Technical University of Darmstadt
 Abstract: The $\infty$-category $Cond(Ani)$ of condensed anima combines the homotopy theoretic direction of anima with the topological space direction of condensed sets. Hence, it is natural to ask for its role in homotopy theory. For instance, one can assign to every condensed anima a pro-homotopy type by which we can recover the &amp;ldquo;shape&amp;rdquo; of a sufficiently nice topological space. In my talk, I will focus on explaining how to define a refinement of the étale homotopy type of a scheme as an object in $Cond(Ani)$.</description>
     </item>
     
     <item>
       <title>Fractured structures on condensed anima</title>
-      <link>https://younghomseminar.github.io/posts/2023-11-20/</link>
+      <link>https://younghomseminar.github.io/posts/2023/2023-11-20/</link>
       <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://younghomseminar.github.io/posts/2023-11-20/</guid>
+      <guid>https://younghomseminar.github.io/posts/2023/2023-11-20/</guid>
       <description>Speaker: Qi Zhu – University of Bonn
 Abstract: We compare notions generalizing features of topology, namely condensed mathematics and cohesive resp. fractured structures on topoi. After introducing/recalling the theory of condensed mathematics and cohesive resp. fractured topoi, we discuss their interrelations. Once we have seen that cohesion is not sensible on the $\infty$-topos of condensed anima $\mathbf{Cond(An)}$ we provide a fractured structure on $\mathbf{Cond(An)}$. We apply this to compare sheaf cohomology and condensed cohomology and show that for the corporeal objects of the fractured structure which are also topological spaces the cohomologies agree.</description>
     </item>
     
     <item>
       <title>Profinite Galois descent</title>
-      <link>https://younghomseminar.github.io/posts/2023-11-16/</link>
+      <link>https://younghomseminar.github.io/posts/2023/2023-11-16/</link>
       <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://younghomseminar.github.io/posts/2023-11-16/</guid>
+      <guid>https://younghomseminar.github.io/posts/2023/2023-11-16/</guid>
       <description>Speaker: Itamar Mor – Queen Mary University of London
 Abstract: Using the proetale site of the Morava stabiliser group, I give a construction of the $K(n)$-local $E_n$ Adams spectral sequence as a HFPSS. A modified version gives a spectral sequence computing the Picard and Brauer groups of $K(n)$-local spectra.
  The talk was recorded and the recording can be found here.</description>
@@ -71,40 +91,40 @@ Abstract: Using the proetale site of the Morava stabiliser group, I give a const
     
     <item>
       <title>The Atiyah-Bott-Shapiro map and the interacting classification of free fermions</title>
-      <link>https://younghomseminar.github.io/posts/2023-11-02/</link>
+      <link>https://younghomseminar.github.io/posts/2023/2023-11-02/</link>
       <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://younghomseminar.github.io/posts/2023-11-02/</guid>
+      <guid>https://younghomseminar.github.io/posts/2023/2023-11-02/</guid>
       <description>Speaker: Arun Debray – Purdue University
 Abstract: The Atiyah-Bott-Shapiro map $\widehat{A}\colon MSpin \longrightarrow KO$ is the preeminent example of an orientation in stable homotopy theory. In the first part of this talk, I will describe the data of $\widehat{A}$: what are $MSpin$ and $KO$, and what is the map between them? In the second half of the talk, I will describe how $\widehat{A}$ and some of its variants provide a mathematical model for the classification of topological phases of matter with free fermion Hamiltonians.</description>
     </item>
     
     <item>
       <title>Equivariant elliptic cohomology</title>
-      <link>https://younghomseminar.github.io/posts/2023-10-23/</link>
+      <link>https://younghomseminar.github.io/posts/2023/2023-10-23/</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://younghomseminar.github.io/posts/2023-10-23/</guid>
+      <guid>https://younghomseminar.github.io/posts/2023/2023-10-23/</guid>
       <description>Speaker: Jack Davies – University of Bonn
 Abstract: Topological $K$-theory has a natural extension to a $G$-equivariant cohomology theory for compact Lie groups $G$&amp;mdash;one just simply exchanges vector bundles with $G$-equivariant vector bundles in the usual construction of $K$-theory. There is a reinterpretation of this equivariant cohomology theory though, in terms of algebraic geometry. Although this second perspective could be taken as an insightful curiosity for $K$-theory, for equivariant elliptic cohomology this perspective becomes our (only) definition.</description>
     </item>
     
     <item>
       <title>FI-calculus and representation stability</title>
-      <link>https://younghomseminar.github.io/posts/2023-10-19/</link>
+      <link>https://younghomseminar.github.io/posts/2023/2023-10-19/</link>
       <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://younghomseminar.github.io/posts/2023-10-19/</guid>
+      <guid>https://younghomseminar.github.io/posts/2023/2023-10-19/</guid>
       <description>Speaker: Kaya Arro – University of California Riverside
 Abstract: Representation stability is a regularity property enjoyed by the homology of many naturally arising objects indexed by the category of finite sets and injections. It turns out, any such FI-object in a presentable stable $\infty$-category admits a Taylor tower of approximations by representation stable FI-objects. From this Taylor tower, one obtains Taylor coefficients as well as natural transformations between these coefficients, and, assuming the vanishing of a Tate construction (satisfied e.</description>
     </item>
     
     <item>
       <title>An introduction to dualizable categories</title>
-      <link>https://younghomseminar.github.io/posts/2023-10-05/</link>
+      <link>https://younghomseminar.github.io/posts/2023/2023-10-05/</link>
       <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://younghomseminar.github.io/posts/2023-10-05/</guid>
+      <guid>https://younghomseminar.github.io/posts/2023/2023-10-05/</guid>
       <description>Speaker: Maxime Ramzi – University of Copenhagen
 Abstract: In this talk, I will give a general introduction to the theory of dualizable presentable categories, as is currently being developped by Efimov and others for K-theoretic purposes. The goal is to talk about generalities, with an end goal to prove that the category of dualizable categories is itself presentable.
  The talk was recorded and the recording can be found here.</description>
@@ -112,30 +132,30 @@ Abstract: In this talk, I will give a general introduction to the theory of dual
     
     <item>
       <title>Semi-topological K-theory of dg-algebras and the lattice conjecture</title>
-      <link>https://younghomseminar.github.io/posts/2023-05-25/</link>
+      <link>https://younghomseminar.github.io/posts/2023/2023-05-25/</link>
       <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://younghomseminar.github.io/posts/2023-05-25/</guid>
+      <guid>https://younghomseminar.github.io/posts/2023/2023-05-25/</guid>
       <description>Speaker: Andrei Konovalov – University of Duisburg-Essen
 Abstract: I will discuss the problem of constructing a natural rational structure on periodic cyclic homology of dg-algebras and dg-categories. The promising candidate is A. Blanc’s topological K-theory. I will show that it, indeed, provides a rational structure in a number of cases and I will discuss its structural properties and possible applications.</description>
     </item>
     
     <item>
       <title>Twisted arrow categories of operads and Segal conditions</title>
-      <link>https://younghomseminar.github.io/posts/2023-05-11/</link>
+      <link>https://younghomseminar.github.io/posts/2023/2023-05-11/</link>
       <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://younghomseminar.github.io/posts/2023-05-11/</guid>
+      <guid>https://younghomseminar.github.io/posts/2023/2023-05-11/</guid>
       <description>Speaker: Sergei Burkin – Pontifical Catholic University of Rio de Janeiro
 Abstract: Several well-known categories, including simplex category $\Delta$, Joyal&amp;rsquo;s categories $\Theta_n$, Segal&amp;rsquo;s category $\Gamma$ and Moerdijk-Weiss dendroidal category $\Omega$, allow to encode homotopy coherent structures via Segal conditions. We show that most of these categories arise from operads in a canonical way, namely, via the only natural generalization of Quillen&amp;rsquo;s twisted arrow category construction to operads. This construction gives a good context for these categories.</description>
     </item>
     
     <item>
       <title>DGAs with polynomial homology and $E_1$-quotients</title>
-      <link>https://younghomseminar.github.io/posts/2023-04-27/</link>
+      <link>https://younghomseminar.github.io/posts/2023/2023-04-27/</link>
       <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://younghomseminar.github.io/posts/2023-04-27/</guid>
+      <guid>https://younghomseminar.github.io/posts/2023/2023-04-27/</guid>
       <description>Speaker: Julius Frank – University of Aberdeen
 Abstract: Differential graded algebras whose homology is a graded polynomial algebra in one variable are surprisingly sparse. One example can be obtained by taking the derived $E_1$-quotient of a commutative ring by some prime $p$. This construction also shows up in some algebraic K-theory calculations, which motivates investigating this algebra with trace methods.
 Examples are necessarily non-commutative: I will explain how all $E_2$-DGAs with polynomial homology over a fixed perfect ring are equivalent as ring spectra.</description>
@@ -143,130 +163,130 @@ Examples are necessarily non-commutative: I will explain how all $E_2$-DGAs with
     
     <item>
       <title>THR of Poincaré infinity-categories</title>
-      <link>https://younghomseminar.github.io/posts/2023-04-13/</link>
+      <link>https://younghomseminar.github.io/posts/2023/2023-04-13/</link>
       <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://younghomseminar.github.io/posts/2023-04-13/</guid>
+      <guid>https://younghomseminar.github.io/posts/2023/2023-04-13/</guid>
       <description>Speaker: Julie Rasmusen – University of Warwick
 Abstract: In recent years work by Calmés-Dotto-Harpaz-Hebestreit-Land-Moi-Nardin-Nikolaus-Steimle have moved the theory of Hermitian K-theory into the framework of stable $\infty$-categories. I will introduce the basic ideas and notions of this new theory and introduce a tool which can help us understand this better: Real Topological Hochschild Homology. I will then explain the ingredients that goes into constructing the geometric fixed points of this THR as a functor, generalising the formula for ring spectra with anti-involution of Dotto-Moi-Patchkoria-Reeh.</description>
     </item>
     
     <item>
       <title>Brown-Gitler Spectra: An introduction and some current research directions</title>
-      <link>https://younghomseminar.github.io/posts/2023-03-30/</link>
+      <link>https://younghomseminar.github.io/posts/2023/2023-03-30/</link>
       <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://younghomseminar.github.io/posts/2023-03-30/</guid>
+      <guid>https://younghomseminar.github.io/posts/2023/2023-03-30/</guid>
       <description>Speaker: Sarah Petersen – University of Colorado Boulder
 Abstract: In this largely expository talk, we will overview some of the motivation for and constructions of Brown-Gitler spectra. We will discuss their use in homotopy computations and indicate some areas of current research interest.</description>
     </item>
     
     <item>
       <title>Mackey and Tambara functors over LCC categories</title>
-      <link>https://younghomseminar.github.io/posts/2023-03-16/</link>
+      <link>https://younghomseminar.github.io/posts/2023/2023-03-16/</link>
       <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://younghomseminar.github.io/posts/2023-03-16/</guid>
+      <guid>https://younghomseminar.github.io/posts/2023/2023-03-16/</guid>
       <description>Speaker: Ben Spitz – University of California, Los Angeles
 Abstract: Mackey and Tambara functors are equivariant generalizations of abelian groups and commutative rings, respectively. What this actually means is that, in equivariant homotopy theory, Mackey functors appear wherever one would expect to find abelian groups, and Tambara functors appear wherever one would expect to find commutative rings. However, the theories of Mackey and Tambara functors are comparatively much less developed than those of abelian groups and commutative rings.</description>
     </item>
     
     <item>
       <title>Algebraicity in monochromatic homotopy theory</title>
-      <link>https://younghomseminar.github.io/posts/2023-02-16/</link>
+      <link>https://younghomseminar.github.io/posts/2023/2023-02-16/</link>
       <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://younghomseminar.github.io/posts/2023-02-16/</guid>
+      <guid>https://younghomseminar.github.io/posts/2023/2023-02-16/</guid>
       <description>Speaker: Torgeir Aambø – Norwegian University of Science and Technology
 Abstract: Chromatic homotopy theory views the stable homotopy category as certain nicely behaved layers glued together along formal neighborhoods. These are respectively described by the famous Morava E-theories $E(n)$ and Morava K-theories $K(n)$. We can single out one of these layers – in some sense reducing the entire colorful spectrum down to a single chroma – giving us monochromatic homotopy theory.</description>
     </item>
     
     <item>
       <title>Parameterized stability and the universal property of global spectra</title>
-      <link>https://younghomseminar.github.io/posts/2023-02-02/</link>
+      <link>https://younghomseminar.github.io/posts/2023/2023-02-02/</link>
       <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://younghomseminar.github.io/posts/2023-02-02/</guid>
+      <guid>https://younghomseminar.github.io/posts/2023/2023-02-02/</guid>
       <description>Speaker: Bastiaan Cnossen - Hausdorff Research Institute for Mathematics
 Abstract: Categories of equivariant objects (representations, equivariant spectra, equivariant Kasparov categories, etcetera) often exist globally for all finite groups, interrelated by restriction functors which restrict the group action. Frequently, there are also induction​ functors in the other direction, which are both left and right adjoint to the restriction functors. One may see this as an equivariant analogue of the existence of biproducts in a category.</description>
     </item>
     
     <item>
       <title>Fp-spectra and Real-oriented homotopy theory</title>
-      <link>https://younghomseminar.github.io/posts/2023-01-19/</link>
+      <link>https://younghomseminar.github.io/posts/2023/2023-01-19/</link>
       <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://younghomseminar.github.io/posts/2023-01-19/</guid>
+      <guid>https://younghomseminar.github.io/posts/2023/2023-01-19/</guid>
       <description>Speaker: Christian Carrick - Utrecht University
 Abstract: If $X$ is a spectrum, then the cohomology groups $H^*(X;\mathbb{F}_ 2)$ form a module over the $\text{mod }2$ Steenrod algebra $\mathcal{A}$. Via the Adams spectral sequence, this algebraic structure almost completely determines the homotopy type of $X$ in many cases. However, $\mathcal{A}$ is a non-Noetherian algebra, so it is often convenient to study $H^*(X;\mathbb{F}_2)$ instead as a module over finite subalgebras of $\mathcal{A}$. When $H^*(X;\mathbb{F}_2)$ is a finitely presented $\mathcal{A}$-module, this results in no loss of information, and Mahowald-Rezk demonstrated that such spectra $X$ - &amp;ldquo;fp spectra&amp;rdquo; - admit a host of interesting categorical properties, including a chromatic version of Brown-Comenetz duality.</description>
     </item>
     
     <item>
       <title>On pushout-pullback fibrations</title>
-      <link>https://younghomseminar.github.io/posts/2023-01-05/</link>
+      <link>https://younghomseminar.github.io/posts/2023/2023-01-05/</link>
       <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://younghomseminar.github.io/posts/2023-01-05/</guid>
+      <guid>https://younghomseminar.github.io/posts/2023/2023-01-05/</guid>
       <description>Speaker: Sebastian Chenery - University of Southampton
 Abstract: We will discuss recent work inspired by a paper of Jeffrey and Selick, where they ask whether the pullback bundle over a connected sum can itself be homeomorphic to a connected sum. We provide a framework to tackle this question through classical homotopy theory, before pivoting to rational homotopy theory to give an answer after taking based loop spaces.</description>
     </item>
     
     <item>
       <title>Twisted parametrised spectra</title>
-      <link>https://younghomseminar.github.io/posts/2022-12-08/</link>
+      <link>https://younghomseminar.github.io/posts/2022/2022-12-08/</link>
       <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://younghomseminar.github.io/posts/2022-12-08/</guid>
+      <guid>https://younghomseminar.github.io/posts/2022/2022-12-08/</guid>
       <description>Speaker: Alice Hedenlund - Uppsala University
 Abstract: Twisted stable homotopy theory was introduced by C. Douglas in his 2005 PhD thesis, meeting a particular need in Floer homotopy theory to deal with infinite-dimensional manifolds that are &amp;ldquo;non-trivially polarised&amp;rdquo;. Roughly, one could think of twisted spectra as arising as sections of a bundle of categories whose fibre is the category of spectra. There are multiple ways of rigorously making sense of this: using sheaves of categories, local systems of categories, or modules over Thom spectra.</description>
     </item>
     
     <item>
       <title>Unstable vector bundles on projective spaces</title>
-      <link>https://younghomseminar.github.io/posts/2022-11-24/</link>
+      <link>https://younghomseminar.github.io/posts/2022/2022-11-24/</link>
       <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://younghomseminar.github.io/posts/2022-11-24/</guid>
+      <guid>https://younghomseminar.github.io/posts/2022/2022-11-24/</guid>
       <description>Speaker: Morgan Opie - UCLA
 Abstract: In this talk, I will talk about the subtleties of studying unstable complex vector bundles on complex projective spaces using stable homotopy theory. I&amp;rsquo;ll start with a classical example of techniques used by Atiyah-Rees to classify all complex rank $2$ topological vector bundles on $\mathbb{C}P^5$ using real K theory and discuss my work on complex rank $3$ topological vector bundles on $\mathbb{C}P^5$ using topological modular forms.</description>
     </item>
     
     <item>
       <title>Global homotopy theory via lax limits</title>
-      <link>https://younghomseminar.github.io/posts/2022-11-10/</link>
+      <link>https://younghomseminar.github.io/posts/2022/2022-11-10/</link>
       <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://younghomseminar.github.io/posts/2022-11-10/</guid>
+      <guid>https://younghomseminar.github.io/posts/2022/2022-11-10/</guid>
       <description>Speaker: Sil Linskens - University of Bonn
 Abstract: Global equivariant stable homotopy theory is a formalism which admits applications to orbifold cohomology, elliptic cohomology and importantly equivariant stable homotopy theory. Many important equivariant spectra admit global refinements, and these refinements have led to theoretical advances and have aided in calculations. However not only does global homotopy theory admit applications to equivariant homotopy theory, but it seems reasonable to expect that global homotopy theory is in some sense determined by equivariant homotopy theory.</description>
     </item>
     
     <item>
       <title>Chromatic homotopy is multiplicatively algebraic at large primes</title>
-      <link>https://younghomseminar.github.io/posts/2022-10-27/</link>
+      <link>https://younghomseminar.github.io/posts/2022/2022-10-27/</link>
       <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://younghomseminar.github.io/posts/2022-10-27/</guid>
+      <guid>https://younghomseminar.github.io/posts/2022/2022-10-27/</guid>
       <description>Speaker: Shaul Barkan - Hebrew University of Jerusalem
 Abstract: Stable homotopy theory is intimately related to the geometry of formal groups through the Adams Novkiov spectral sequence. Franke took a step towards making this analogy precise by introducing a derived category of certain sheaves on the moduli stack of formal groups as an analog of the $\infty$-category of spectra of chromatic height $\leq h$. He conjectured that at primes sufficiently larger than the height the homotopy truncation of the two categories coincide.</description>
     </item>
     
     <item>
       <title>On Brauer Groups of Lubin-Tate Spectra</title>
-      <link>https://younghomseminar.github.io/posts/2022-10-13/</link>
+      <link>https://younghomseminar.github.io/posts/2022/2022-10-13/</link>
       <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://younghomseminar.github.io/posts/2022-10-13/</guid>
+      <guid>https://younghomseminar.github.io/posts/2022/2022-10-13/</guid>
       <description>Speaker: Alicia Lima – University of Chicago
 Abstract: Brauer groups and Azumaya algebras play an important role in many areas of mathematics. For instance, Antieau and Gepner showed that the Brauer group of the sphere spectrum $\mathbb{S}$ is zero, giving us the rigidity result for $\mathbb{S}$-modules. In this talk, I will walk you through Hopkins and Lurie&amp;rsquo;s computation (up to a filtration) of the Brauer groups of Lubin-Tate spectra, which are important building blocks in Chromatic Homotopy Theory.</description>
     </item>
     
     <item>
       <title>Localization theorem for the algebraic K-theory of stable infinity-categories</title>
-      <link>https://younghomseminar.github.io/posts/2022-09-29/</link>
+      <link>https://younghomseminar.github.io/posts/2022/2022-09-29/</link>
       <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://younghomseminar.github.io/posts/2022-09-29/</guid>
+      <guid>https://younghomseminar.github.io/posts/2022/2022-09-29/</guid>
       <description>Speaker: Andrea Lachmann - University of Wuppertal
 Abstract: The Localisation Theorem is a classical result by Quillen, which for any localisation of rings yields a long exact sequence of K-groups. In this talk we will define the algebraic K-theory functor from stable $\infty$-categories to spaces or spectra, and produce an analogue of the localisation theorem for this setting.
 I have already given a short talk on this topic at the YTM, but this time I will go a lot more into detail, so you can still learn something new even if you attended my previous talk.</description>
@@ -274,10 +294,10 @@ I have already given a short talk on this topic at the YTM, but this time I will
     
     <item>
       <title>Dimensions of colimits</title>
-      <link>https://younghomseminar.github.io/posts/2022-09-15/</link>
+      <link>https://younghomseminar.github.io/posts/2022/2022-09-15/</link>
       <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://younghomseminar.github.io/posts/2022-09-15/</guid>
+      <guid>https://younghomseminar.github.io/posts/2022/2022-09-15/</guid>
       <description>Speaker: Maxime Ramzi – Unversity of Copenhagen
 Abstract: We use the Hochschild-homological interpretation of dimensions and more generally traces in symmetric monoidal $\infty$-categories to produce formulas for dimensions and traces of colimits over sufficiently nice spaces.
 These formulas specialize on the one hand to the very classical character-theoretic formulas for dimensions of coinvariants in the case of vector spaces in characteristic $0$ and when the space is $BG$ for some finite group $G$; and on the other hand to the Blumberg-Cohen-Schlichtkrull formula for topological Hochschild homology of Thom spectra.</description>
@@ -285,10 +305,10 @@ These formulas specialize on the one hand to the very classical character-theore
     
     <item>
       <title>Polygons and TR with coefficients</title>
-      <link>https://younghomseminar.github.io/posts/2022-09-01/</link>
+      <link>https://younghomseminar.github.io/posts/2022/2022-09-01/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://younghomseminar.github.io/posts/2022-09-01/</guid>
+      <guid>https://younghomseminar.github.io/posts/2022/2022-09-01/</guid>
       <description>Speaker: Jonas McCandless - University of Münster
 Abstract: I will introduce the notion of a polygonic spectrum which is a multi-object version of the notion of a cyclotomic spectrum indexed by polygons rather than the circle. This is designed to capture the structure on topological Hochschild homology of a ring with coefficients in a bimodule. Using this, I will explain the construction of TR with coefficients and explain how this is equipped with compatible Frobenius and Verschiebung maps.</description>
     </item>

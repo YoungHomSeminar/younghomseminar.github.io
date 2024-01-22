@@ -1,6 +1,6 @@
 ---
 title: "An interpolation between algebraic and special linear algebraic (co)bordism"
-date: 2024-01-24
+date: 2024-01-25
 draft: false
 math: true
 showtoc: false

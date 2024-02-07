@@ -1,6 +1,6 @@
 ---
 title: "p-completions in motivic homotopy theory"
-date: 2024-02-022
+date: 2024-02-22
 draft: false
 math: true
 showtoc: false

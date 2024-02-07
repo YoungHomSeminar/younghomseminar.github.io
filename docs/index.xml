@@ -18,6 +18,16 @@ Abstract: I will introduce a candidate model for ($\infty$-)categories weakly en
     </item>
     
     <item>
+      <title>p-completions in motivic homotopy theory</title>
+      <link>https://younghomseminar.github.io/posts/2024-02-22/</link>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://younghomseminar.github.io/posts/2024-02-22/</guid>
+      <description>Speaker: Klaus Mattis – University of Mainz
+Abstract: In homotopy theory, one uses the $p$-completion functors to simplify questions about spectra or anima to the much easier case of $p$-complete spectra or anima. A similar thing can be done in motivic homotopy theory: I will define the unstable $p$-completion functor of a general $\infty$-topos and of the category of motivic spaces. Then I will sketch how one can translate classical results about unstable $p$-completion from homotopy theory to the motivic setting.</description>
+    </item>
+    
+    <item>
       <title>On the sharpness conjecture for fusion systems</title>
       <link>https://younghomseminar.github.io/posts/2024-02-08/</link>
       <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
@@ -323,16 +333,6 @@ Abstract: I will introduce the notion of a polygonic spectrum which is a multi-o
 All talks are held online every other thursdays at 3PM GMT, unless otherwise stated. Some of the talks are being recorded.</description>
     </item>
     
-    
-    <item>
-      <title>p-completions in motivic homotopy theory</title>
-      <link>https://younghomseminar.github.io/posts/2024-02-22/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://younghomseminar.github.io/posts/2024-02-22/</guid>
-      <description>Speaker: Klaus Mattis – University of Mainz
-Abstract: In homotopy theory, one uses the $p$-completion functors to simplify questions about spectra or anima to the much easier case of $p$-complete spectra or anima. A similar thing can be done in motivic homotopy theory: I will define the unstable $p$-completion functor of a general $\infty$-topos and of the category of motivic spaces. Then I will sketch how one can translate classical results about unstable $p$-completion from homotopy theory to the motivic setting.</description>
-    </item>
     
     <item>
       <title>Schedule</title>

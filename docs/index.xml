@@ -18,6 +18,16 @@ Abstract: I will introduce a candidate model for ($\infty$-)categories weakly en
     </item>
     
     <item>
+      <title>Equivariant Witt complexes</title>
+      <link>https://younghomseminar.github.io/posts/2024-02-26/</link>
+      <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://younghomseminar.github.io/posts/2024-02-26/</guid>
+      <description>Speaker: Sarah Petersen – University of Colorado, Boulder
+Abstract: The topological Hochschild homology of a ring (or ring spectrum) $R$ is an $S^1$-spectrum, $THH(R).$ Along with its $C_n \subset S^1$-fixed points, $THH(R)$ has been widely studied due to numerous applications in algebraic $K$-theory computations. When studying the fixed points of topological Hochschild homology, Hesselholt and Madsen found a close relationship with Witt vectors. Building on this, they defined the notion of a Witt complex, and showed that it captures the algebraic structure of the homotopy groups of the fixed points of $THH$.</description>
+    </item>
+    
+    <item>
       <title>p-completions in motivic homotopy theory</title>
       <link>https://younghomseminar.github.io/posts/2024-02-22/</link>
       <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
@@ -341,7 +351,7 @@ All talks are held online every other thursdays at 3PM GMT, unless otherwise sta
       
       <guid>https://younghomseminar.github.io/schedule/</guid>
       <description>All talks are held online every other thursdays at 3PM GMT, unless otherwise stated.
-   Date Speaker Title     08.02.24 Marco Pradeno Bova On the sharpness conjecture for fusion systems   22.02.24 Klaus Mattis $p$-completions in motivic homotopy theory   25.02.24 TBA    07.03.24 Arne Mertens A colax monoidal approach to quasi-categories    </description>
+   Date Speaker Title     22.02.24 Klaus Mattis $p$-completions in motivic homotopy theory   26.02.24 Sarah Petersen Equivariant Witt Complexes   07.03.24 Arne Mertens A colax monoidal approach to quasi-categories    </description>
     </item>
     
     

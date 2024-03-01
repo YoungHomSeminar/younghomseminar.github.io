@@ -6,7 +6,27 @@
     <description>Recent content in Posts on YoungHom</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright> </copyright>
-    <lastBuildDate>Thu, 07 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://younghomseminar.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://younghomseminar.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Equivariant Witt complexes</title>
+      <link>https://younghomseminar.github.io/posts/2024-04-18/</link>
+      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://younghomseminar.github.io/posts/2024-04-18/</guid>
+      <description>Speaker: Sarah Petersen – University of Colorado, Boulder
+Abstract: The topological Hochschild homology of a ring (or ring spectrum) $R$ is an $S^1$-spectrum, $THH(R).$ Along with its $C_n \subset S^1$-fixed points, $THH(R)$ has been widely studied due to numerous applications in algebraic $K$-theory computations. When studying the fixed points of topological Hochschild homology, Hesselholt and Madsen found a close relationship with Witt vectors. Building on this, they defined the notion of a Witt complex, and showed that it captures the algebraic structure of the homotopy groups of the fixed points of $THH$.</description>
+    </item>
+    
+    <item>
+      <title>Failure of the telescopic conjecture in the chromatic Fourier transform</title>
+      <link>https://younghomseminar.github.io/posts/2024-04-04/</link>
+      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://younghomseminar.github.io/posts/2024-04-04/</guid>
+      <description>Speaker: Marwa Mosallam – Binghampton University
+Abstract: TBA</description>
+    </item>
+    
     <item>
       <title>A colax monoidal approach to quasi-categories</title>
       <link>https://younghomseminar.github.io/posts/2024-03-07/</link>
@@ -15,16 +35,6 @@
       <guid>https://younghomseminar.github.io/posts/2024-03-07/</guid>
       <description>Speaker: Arne Mertens – University of Antwerp
 Abstract: I will introduce a candidate model for ($\infty$-)categories weakly enriched in simplicial objects, based on the Joyal model for quasi-categories. The main idea is to replace the category of simplicial sets by a category of certain colax monoidal functors, inspired by a result of Leinster and Bacard&amp;rsquo;s work on Segal enriched categories. We call them &amp;ldquo;templicial objects&amp;rdquo; and define quasi-categories analogously to the classical situation.</description>
-    </item>
-    
-    <item>
-      <title>Equivariant Witt complexes</title>
-      <link>https://younghomseminar.github.io/posts/2024-02-26/</link>
-      <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://younghomseminar.github.io/posts/2024-02-26/</guid>
-      <description>Speaker: Sarah Petersen – University of Colorado, Boulder
-Abstract: The topological Hochschild homology of a ring (or ring spectrum) $R$ is an $S^1$-spectrum, $THH(R).$ Along with its $C_n \subset S^1$-fixed points, $THH(R)$ has been widely studied due to numerous applications in algebraic $K$-theory computations. When studying the fixed points of topological Hochschild homology, Hesselholt and Madsen found a close relationship with Witt vectors. Building on this, they defined the notion of a Witt complex, and showed that it captures the algebraic structure of the homotopy groups of the fixed points of $THH$.</description>
     </item>
     
     <item>

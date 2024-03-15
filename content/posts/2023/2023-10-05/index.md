@@ -10,6 +10,4 @@ showtoc: false
 
 **Abstract:** In this talk, I will give a general introduction to the theory of dualizable presentable categories, as is currently being developped by Efimov and others for K-theoretic purposes. The goal is to talk about generalities, with an end goal to prove that the category of dualizable categories is itself presentable. 
 
---- 
-
-The talk was recorded and the recording can be found [here](https://www.youtube.com/watch?v=s8Ec1SB1BeQ).
+<style>body {text-align: justify}</style>

@@ -9,3 +9,7 @@ showtoc: false
 **Speaker:** Marwa Mosallam – Binghampton University
 
 **Abstract:** TBA
+
+
+
+<style>body {text-align: justify}</style>

@@ -24,7 +24,8 @@ Abstract: The topological Hochschild homology of a ring (or ring spectrum) $R$ i
       
       <guid>https://younghomseminar.github.io/posts/2024-04-04/</guid>
       <description>Speaker: Marwa Mosallam – Binghampton University
-Abstract: TBA</description>
+Abstract: TBA
+body {text-align: justify}</description>
     </item>
     
     <item>
@@ -48,7 +49,7 @@ Abstract: I will introduce a candidate model for ($\infty$-)categories weakly en
     </item>
     
     <item>
-      <title>p-completions in motivic homotopy theory</title>
+      <title>$p$-completions in motivic homotopy theory</title>
       <link>https://younghomseminar.github.io/posts/2024-02-22/</link>
       <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
       
@@ -126,7 +127,7 @@ Abstract: We compare notions generalizing features of topology, namely condensed
       <guid>https://younghomseminar.github.io/posts/2023/2023-11-16/</guid>
       <description>Speaker: Itamar Mor – Queen Mary University of London
 Abstract: Using the proetale site of the Morava stabiliser group, I give a construction of the $K(n)$-local $E_n$ Adams spectral sequence as a HFPSS. A modified version gives a spectral sequence computing the Picard and Brauer groups of $K(n)$-local spectra.
- The talk was recorded and the recording can be found here.</description>
+body {text-align: justify}</description>
     </item>
     
     <item>
@@ -167,7 +168,7 @@ Abstract: Representation stability is a regularity property enjoyed by the homol
       <guid>https://younghomseminar.github.io/posts/2023/2023-10-05/</guid>
       <description>Speaker: Maxime Ramzi – University of Copenhagen
 Abstract: In this talk, I will give a general introduction to the theory of dualizable presentable categories, as is currently being developped by Efimov and others for K-theoretic purposes. The goal is to talk about generalities, with an end goal to prove that the category of dualizable categories is itself presentable.
- The talk was recorded and the recording can be found here.</description>
+body {text-align: justify}</description>
     </item>
     
     <item>
@@ -177,7 +178,8 @@ Abstract: In this talk, I will give a general introduction to the theory of dual
       
       <guid>https://younghomseminar.github.io/posts/2023/2023-05-25/</guid>
       <description>Speaker: Andrei Konovalov – University of Duisburg-Essen
-Abstract: I will discuss the problem of constructing a natural rational structure on periodic cyclic homology of dg-algebras and dg-categories. The promising candidate is A. Blanc’s topological K-theory. I will show that it, indeed, provides a rational structure in a number of cases and I will discuss its structural properties and possible applications.</description>
+Abstract: I will discuss the problem of constructing a natural rational structure on periodic cyclic homology of dg-algebras and dg-categories. The promising candidate is A. Blanc’s topological K-theory. I will show that it, indeed, provides a rational structure in a number of cases and I will discuss its structural properties and possible applications.
+body {text-align: justify}</description>
     </item>
     
     <item>
@@ -218,7 +220,8 @@ Abstract: In recent years work by Calmés-Dotto-Harpaz-Hebestreit-Land-Moi-Nardi
       
       <guid>https://younghomseminar.github.io/posts/2023/2023-03-30/</guid>
       <description>Speaker: Sarah Petersen – University of Colorado Boulder
-Abstract: In this largely expository talk, we will overview some of the motivation for and constructions of Brown-Gitler spectra. We will discuss their use in homotopy computations and indicate some areas of current research interest.</description>
+Abstract: In this largely expository talk, we will overview some of the motivation for and constructions of Brown-Gitler spectra. We will discuss their use in homotopy computations and indicate some areas of current research interest.
+body {text-align: justify}</description>
     </item>
     
     <item>
@@ -268,7 +271,8 @@ Abstract: If $X$ is a spectrum, then the cohomology groups $H^*(X;\mathbb{F}_ 2)
       
       <guid>https://younghomseminar.github.io/posts/2023/2023-01-05/</guid>
       <description>Speaker: Sebastian Chenery - University of Southampton
-Abstract: We will discuss recent work inspired by a paper of Jeffrey and Selick, where they ask whether the pullback bundle over a connected sum can itself be homeomorphic to a connected sum. We provide a framework to tackle this question through classical homotopy theory, before pivoting to rational homotopy theory to give an answer after taking based loop spaces.</description>
+Abstract: We will discuss recent work inspired by a paper of Jeffrey and Selick, where they ask whether the pullback bundle over a connected sum can itself be homeomorphic to a connected sum. We provide a framework to tackle this question through classical homotopy theory, before pivoting to rational homotopy theory to give an answer after taking based loop spaces.
+body {text-align: justify}</description>
     </item>
     
     <item>
@@ -371,7 +375,7 @@ All talks are held online every other thursdays at 3PM GMT, unless otherwise sta
       
       <guid>https://younghomseminar.github.io/schedule/</guid>
       <description>All talks are held online every other thursdays at 3PM GMT, unless otherwise stated.
-   Date Speaker Title     21.03.24 Torgeir Aambø Deformations of chromatic homotopy theory   04.04.24 Marwa Mosallam Failure of the telescopic conjecture in the chromatic Fourier transform   18.04.24 Sarah Petersen Equivariant Witt Complexes   22.04.24 TBA    02.05.24 TBA     </description>
+   Date Speaker Title     21.03.24 Torgeir Aambø Deformations of chromatic homotopy theory   04.04.24 Marwa Mosallam Failure of the telescopic conjecture in the chromatic Fourier transform   18.04.24 Sarah Petersen Equivariant Witt Complexes   22.04.24 Florian Riedel TBA   02.05.24 TBA     </description>
     </item>
     
     

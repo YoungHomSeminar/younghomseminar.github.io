@@ -13,3 +13,5 @@ showtoc: false
 
 I have already given a short talk on this topic at the YTM, but this time I will go a lot more into detail, so you can still learn something new even if you attended my previous talk.
 
+
+<style>body {text-align: justify}</style>

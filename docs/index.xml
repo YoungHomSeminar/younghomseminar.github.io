@@ -28,6 +28,16 @@ Abstract: TBA</description>
     </item>
     
     <item>
+      <title>Deformations of chromatic homotopy theory</title>
+      <link>https://younghomseminar.github.io/posts/2024-03-21/</link>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://younghomseminar.github.io/posts/2024-03-21/</guid>
+      <description>Speaker: Torgeir Aambø – Norwegian University of Science and Technology (NTNU)
+Abstract: Chromatic homotopy theory is the &amp;ldquo;quantum mechanics&amp;rdquo; of stable homotopy theory, where we split the theory down and study its smallest and most fundamental pieces. It has gotten the name &amp;ldquo;chromatic&amp;rdquo; as each piece operates at a certain fundamental frequency, or a certain wavelength. This gives a filtration of the pure white light $Sp$ into colors $Sp_{K(n)}$, and collections of colors $Sp_{E(n)}$.</description>
+    </item>
+    
+    <item>
       <title>A colax monoidal approach to quasi-categories</title>
       <link>https://younghomseminar.github.io/posts/2024-03-07/</link>
       <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
@@ -361,7 +371,7 @@ All talks are held online every other thursdays at 3PM GMT, unless otherwise sta
       
       <guid>https://younghomseminar.github.io/schedule/</guid>
       <description>All talks are held online every other thursdays at 3PM GMT, unless otherwise stated.
-   Date Speaker Title     07.03.24 Arne Mertens A colax monoidal approach to quasi-categories   21.03.24 TBA    25.03.24 TBA    04.04.24 Marwa Mosallam Failure of the telescopic conjecture in the chromatic Fourier transform   18.04.24 Sarah Petersen Equivariant Witt Complexes   22.04.24 TBA    02.</description>
+   Date Speaker Title     21.03.24 Torgeir Aambø Deformations of chromatic homotopy theory   04.04.24 Marwa Mosallam Failure of the telescopic conjecture in the chromatic Fourier transform   18.04.24 Sarah Petersen Equivariant Witt Complexes   22.04.24 TBA    02.05.24 TBA     </description>
     </item>
     
     

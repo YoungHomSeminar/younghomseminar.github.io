@@ -15,12 +15,16 @@ All talks are held online every other thursdays at 3PM GMT, unless otherwise sta
 ### Time-zone conversion
 
 3PM in GMT is:
-- 7AM Pacific Time (GMT-8)
-- 8AM Mountain Time (GMT-7)
-- 9AM Central Time (GMT-6)
-- 10AM Eastern Time (GMT-5)
+- 8AM Pacific Time (GMT-7)
+- 9AM Mountain Time (GMT-6)
+- 10AM Central Time (GMT-5)
+- 11AM Eastern Time (GMT-4)
 - 3PM London (GMT)
 - 4PM Copenhagen (GMT+1)
+
+
+
+
 
 ### Information and contact
 

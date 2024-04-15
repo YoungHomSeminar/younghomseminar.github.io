@@ -8,13 +8,13 @@
     <copyright> </copyright>
     <lastBuildDate>Thu, 18 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://younghomseminar.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Equivariant Witt complexes</title>
+      <title>Overview of enriched $∞$-categories</title>
       <link>https://younghomseminar.github.io/posts/2024-04-18/</link>
       <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
       
       <guid>https://younghomseminar.github.io/posts/2024-04-18/</guid>
-      <description>Speaker: Sarah Petersen – University of Colorado, Boulder
-Abstract: The topological Hochschild homology of a ring (or ring spectrum) $R$ is an $S^1$-spectrum, $THH(R).$ Along with its $C_n \subset S^1$-fixed points, $THH(R)$ has been widely studied due to numerous applications in algebraic $K$-theory computations. When studying the fixed points of topological Hochschild homology, Hesselholt and Madsen found a close relationship with Witt vectors. Building on this, they defined the notion of a Witt complex, and showed that it captures the algebraic structure of the homotopy groups of the fixed points of $THH$.</description>
+      <description>Speaker: Julie Rasumsen – University of Warwick
+Abstract: In recent years, several different attempts at developing the theory of enriched $\infty$-categories have been carried out by Gepner-Haugseng, Heine, and Hinich. These different approaches all have their advantages and disadvantages but have been shown to be equivalent. However, the theory is yet to be uniformly formulated using a single language, making it difficult to approach. In this talk, I will give a general overview of these different approaches and explain why intuitively, in particular, the approach by Gepner-Haugseng gives the desired structure.</description>
     </item>
     
     <item>
@@ -24,7 +24,7 @@ Abstract: The topological Hochschild homology of a ring (or ring spectrum) $R$ i
       
       <guid>https://younghomseminar.github.io/posts/2024-04-04/</guid>
       <description>Speaker: Marwa Mosallam – Binghampton University
-Abstract: TBA
+Abstract: Talk canceled
 body {text-align: justify}</description>
     </item>
     

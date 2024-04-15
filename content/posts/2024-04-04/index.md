@@ -8,7 +8,7 @@ showtoc: false
 
 **Speaker:** Marwa Mosallam – Binghampton University
 
-**Abstract:** TBA
+**Abstract:** Talk canceled
 
 
 

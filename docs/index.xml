@@ -8,6 +8,16 @@
     <copyright> </copyright>
     <lastBuildDate>Thu, 18 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://younghomseminar.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Deformation theory of $E_∞$-coalgebras and Mandell&#39;s theorem</title>
+      <link>https://younghomseminar.github.io/posts/2024-04-22/</link>
+      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://younghomseminar.github.io/posts/2024-04-22/</guid>
+      <description>Speaker: Florian Riedel – University of Copenhagen
+Abstract: I discuss how we can use deformation theoretic methods to show that Weil-restriction of coalgebras lets us recover the $p$-completed suspension spectrum of a space from its $\mathbb{F}_ p$-homology as its unique lift to an $\mathbb{E}_\infty$-coalgebra in $p$-complete spectra. I will talk about higher deformation theory as developed by Lurie and introduce the notion of formally étale coalgebra. I will also sketch how this relates to work in progress on construct an integral coalgebraic model for the category of spaces.</description>
+    </item>
+    
+    <item>
       <title>Overview of enriched $∞$-categories</title>
       <link>https://younghomseminar.github.io/posts/2024-04-18/</link>
       <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
@@ -364,7 +374,7 @@ All talks are held online every other thursdays at 2PM GMT, unless otherwise sta
       
       <guid>https://younghomseminar.github.io/schedule/</guid>
       <description>All talks are held online every other thursdays at 2PM GMT, unless otherwise stated.
-   Date Speaker Title     18.04.24 Julie Rasmusen Overview of enriched $\infty$-categories   22.04.24 Florian Riedel TBA   02.05.24 Ben Szczesny TBA   16.05.24 Elizabeth Tatum TBA   30.05.24 Liam Keenan Chromatic vanishing for $TR$    </description>
+   Date Speaker Title     22.04.24 Florian Riedel Deformation theory of $\mathbb{E}_\infty$-coalgebras and Mandell&amp;rsquo;s theorem   02.05.24 Ben Szczesny TBA   16.05.24 Elizabeth Tatum TBA   30.05.24 Liam Keenan Chromatic vanishing for $TR$    </description>
     </item>
     
     

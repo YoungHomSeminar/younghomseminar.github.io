@@ -11,8 +11,7 @@ All talks are held online every other Thursdays at 2PM GMT, unless otherwise sta
 
 |Date    |Speaker                |Title|
 |--------|-----------------------|-----|
-|02.05.24|Ben Szczesny           |[Extending the additivity of little cube operads]({{<ref "2024-05-02">}})|
-|16.05.24|Elizabeth Tatum        |TBA|
+|16.05.24|Elizabeth Tatum        |[The $RO(\Pi)$-graded cohomology of $BC_{2}O(1)$]({{<ref "2024-05-16">}})|
 |30.05.24|Liam Keenan            |Chromatic vanishing for $TR$|
 
 

@@ -6,7 +6,17 @@
     <description>Recent content in Posts on YoungHom</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright> </copyright>
-    <lastBuildDate>Thu, 02 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://younghomseminar.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://younghomseminar.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The $RO(Π)$-graded cohomology of $BC_{2}O(1)$</title>
+      <link>https://younghomseminar.github.io/posts/2024-05-16/</link>
+      <pubDate>Thu, 16 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://younghomseminar.github.io/posts/2024-05-16/</guid>
+      <description>Speaker: Elizabeth Tatum – Ohio State University
+Abstract: In the $G$-equivariant setting, one typically uses $RO(G)$-graded cohomology theories. Costenoble-Waner have constructed an extension of this grading, the $RO(\Pi)$-grading, which allows classical results from nonequivariant topology, such as the Thom Isomorphism Theorem and Poincare duality, to be imported to the $G$-equivariant setting. I will discuss the computation of the cohomology of $BC_{2}O(1)$, the classifying space for real $C_{2}$-line bundles, in this extended grading.</description>
+    </item>
+    
     <item>
       <title>Extending the additivity of little cube operads</title>
       <link>https://younghomseminar.github.io/posts/2024-05-02/</link>

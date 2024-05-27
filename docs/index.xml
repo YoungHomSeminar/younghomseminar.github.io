@@ -6,7 +6,17 @@
     <description>Recent content on YoungHom</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright> </copyright>
-    <lastBuildDate>Thu, 16 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://younghomseminar.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://younghomseminar.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chromatic vanishing for $TR$</title>
+      <link>https://younghomseminar.github.io/posts/2024-05-30/</link>
+      <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://younghomseminar.github.io/posts/2024-05-30/</guid>
+      <description>Speaker: Liam Keenan – University of Minnesota
+Abstract: One natural invariant associated to a ring spectrum R is its topological Hochschild homology. If $R$ admits a multiplicative filtration or grading, then these both prolong to $THH(R)$ inducing a &amp;ldquo;filtered&amp;rdquo; or &amp;ldquo;graded&amp;rdquo; cyclotomic structure. In this talk, I&amp;rsquo;ll try to explain this point of view and survey some applications, highlighting the case of the May filtration and the $THH$ of a twisted group ring.</description>
+    </item>
+    
     <item>
       <title>The $RO(Π)$-graded cohomology of $BC_{2}O(1)$</title>
       <link>https://younghomseminar.github.io/posts/2024-05-16/</link>
@@ -394,7 +404,7 @@ All talks are held online every other thursdays at 2PM GMT, unless otherwise sta
       
       <guid>https://younghomseminar.github.io/schedule/</guid>
       <description>All talks are held online every other Thursdays at 2PM GMT, unless otherwise stated.
-   Date Speaker Title     16.05.24 Elizabeth Tatum The $RO(\Pi)$-graded cohomology of $BC_{2}O(1)$   30.05.24 Liam Keenan Chromatic vanishing for $TR$    </description>
+   Date Speaker Title     30.05.24 Liam Keenan Chromatic vanishing for $TR$    </description>
     </item>
     
     

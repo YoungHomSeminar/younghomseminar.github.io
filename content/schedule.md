@@ -11,7 +11,7 @@ All talks are held online every other Thursdays at 2PM GMT, unless otherwise sta
 
 |Date    |Speaker                |Title|
 |--------|-----------------------|-----|
-|30.05.24|Liam Keenan            |[Chromatic vanishing for $TR$]({{<ref "2024-05-30">}})|
+|30.05.24|Liam Keenan            |[Some applications of filtered and graded $THH$]({{<ref "2024-05-30">}})|
 
 
  

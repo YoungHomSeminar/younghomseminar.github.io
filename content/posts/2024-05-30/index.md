@@ -1,5 +1,5 @@
 ---
-title: "Chromatic vanishing for $TR$"
+title: "Some applications of filtered and graded $THH$"
 date: 2024-05-30
 draft: false
 math: true

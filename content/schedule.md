@@ -11,7 +11,9 @@ All talks are held online every other Thursdays at 2PM GMT, unless otherwise sta
 
 |Date    |Speaker                |Title|
 |--------|-----------------------|-----|
-
+|02.10.24|Robert Szafarczyk      |[Lifting schemes to the sphere]({{<ref "/posts/2024-10-02">}})|
+|16.10.24|Guoqi Yan              |[The generalized Tate diagrams of the equivariant slice filtration]({{<ref "/posts/2024-10-16">}})|
+|30.10.24|Guglielmo Nocera       |[Assembly maps in topology]({{<ref "/posts/2024-10-30">}})|
 
 
  

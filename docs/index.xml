@@ -6,7 +6,29 @@
     <description>Recent content on YoungHom</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright> </copyright>
-    <lastBuildDate>Wed, 30 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://younghomseminar.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://younghomseminar.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Realizing transfer systems by suboperads of coinduced operads</title>
+      <link>https://younghomseminar.github.io/posts/2024-11-27/</link>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://younghomseminar.github.io/posts/2024-11-27/</guid>
+      <description>Speaker: Ben Szczesny – Ohio State University
+Abstract: TBA
+body {text-align: justify}</description>
+    </item>
+    
+    <item>
+      <title>A point-free approach to fundamental groups</title>
+      <link>https://younghomseminar.github.io/posts/2024-11-13/</link>
+      <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://younghomseminar.github.io/posts/2024-11-13/</guid>
+      <description>Full title: A point-free approach to fundamental groups: the Kennison fundamental pro-group of a connected and locally connected locale
+Speaker: Jean Paul Schemeil – University of Nottingham
+Abstract: The aim of this talk is to introduce the notions of the fundamental pro-sheaf and pro-group of locales, first introduced by John F. Kennison in &amp;ldquo;What is the fundamental group?&amp;rdquo; (Journal of Pure and Applied Algebra, 1989). We will review some foundational aspects of locale theory, motivating how locales can be correctly thought as &amp;ldquo;pointless&amp;rdquo; topological spaces.</description>
+    </item>
+    
     <item>
       <title>Assembly maps in topology</title>
       <link>https://younghomseminar.github.io/posts/2024-10-30/</link>
@@ -29,10 +51,10 @@ Abstract: The equivariant slice spectral sequence is invented by Dugger and is g
     
     <item>
       <title>Lifting schemes to the sphere</title>
-      <link>https://younghomseminar.github.io/posts/2024-10-02/</link>
+      <link>https://younghomseminar.github.io/posts/2024/2024-10-02/</link>
       <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://younghomseminar.github.io/posts/2024-10-02/</guid>
+      <guid>https://younghomseminar.github.io/posts/2024/2024-10-02/</guid>
       <description>Speaker: Robert Szafarczyk – University of Copenhagen
 Abstract: Every discrete ring is a $\mathbb{Z}$-algebra. In homotopy theory we have a deeper base though, the sphere spectrum. Hence, one can ask if a given scheme arises as base change to the integers of some spectral scheme. We will present an obstruction (a necessary condition) to lift existence. In the affine case, there is a relatively simple $1$-algebraic obstruction due to Thomas Nikolaus.</description>
     </item>
@@ -434,7 +456,7 @@ All talks are held online every other Wednesday at 2PM GMT, unless otherwise sta
       
       <guid>https://younghomseminar.github.io/schedule/</guid>
       <description>All talks are held online every other Wednesday at 2PM GMT, unless otherwise stated.
-   Date Speaker Title     16.10.24 Guoqi Yan The generalized Tate diagrams of the equivariant slice filtration   30.10.24 Guglielmo Nocera Assembly maps in topology    </description>
+   Date Speaker Title     30.10.24 Guglielmo Nocera Assembly maps in topology   13.11.24 Jean Paul Schemeil A point-free approach to fundamental groups   27.11.24 Ben Szczesny Realizing transfer systems by suboperads of coinduced operads    </description>
     </item>
     
     

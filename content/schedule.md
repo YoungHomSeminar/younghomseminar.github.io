@@ -11,8 +11,9 @@ All talks are held online every other Wednesday at 2PM GMT, unless otherwise sta
 
 |Date    |Speaker                |Title|
 |--------|-----------------------|-----|
-|16.10.24|Guoqi Yan              |[The generalized Tate diagrams of the equivariant slice filtration]({{<ref "/posts/2024-10-16">}})|
 |30.10.24|Guglielmo Nocera       |[Assembly maps in topology]({{<ref "/posts/2024-10-30">}})|
+|13.11.24|Jean Paul Schemeil     |[A point-free approach to fundamental groups]({{<ref "/posts/2024-11-13">}})|
+|27.11.24|Ben Szczesny           |[Realizing transfer systems by suboperads of coinduced operads]({{<ref "/posts/2024-11-27">}})|
 
 
  

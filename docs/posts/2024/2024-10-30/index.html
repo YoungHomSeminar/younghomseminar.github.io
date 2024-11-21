@@ -5,12 +5,15 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
-<title>YoungHom</title>
-
-<meta name="description" content="Young Homotopy-theorist Online Meeting">
+<title>Assembly maps in topology | YoungHom</title>
+<meta name="keywords" content="" />
+<meta name="description" content="Speaker: Guglielmo Nocera – Institut des Hautes Études Scientifiques (IHÉS)
+Abstract: The Borel conjecture states that, for a discrete group $G$, any two closed topological manifolds homotopy equivalent to $BG$ are indeed homeomorphic to each other. The truth of the conjecture can be checked by inspecting whether the so-called assembly maps are equivalences. Informally, these maps relate certain $G$-equivariant homology theories to $K$-theory and $L$-theory of the group ring $\mathbb{Z}[G]$. In the special case of $G=\mathbb{Z}$, they are also related to classical splitting results in $K$- and $L$-theory of Laurent polynomials.">
 <meta name="author" content="">
-<link rel="canonical" href="https://younghomseminar.github.io/" />
+<link rel="canonical" href="https://younghomseminar.github.io/posts/2024/2024-10-30/" />
 <link crossorigin="anonymous" href="/assets/css/stylesheet.min.e61153a61e9766edc8a3a08ca4790a2521c560cbdf8f727fe6026133e078978d.css" integrity="sha256-5hFTph6XZu3Io6CMpHkKJSHFYMvfj3J/5gJhM&#43;B4l40=" rel="preload stylesheet" as="style">
+<script defer crossorigin="anonymous" src="/assets/js/highlight.min.7680afc38aa6b15ddf158a4f3780b7b1f7dde7e91d26f073e6229bb7a0793c92.js" integrity="sha256-doCvw4qmsV3fFYpPN4C3sffd5&#43;kdJvBz5iKbt6B5PJI="
+    onload="hljs.initHighlightingOnLoad();"></script>
 <link rel="icon" href="https://younghomseminar.github.io/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="https://younghomseminar.github.io/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://younghomseminar.github.io/favicon-32x32.png">
@@ -19,10 +22,24 @@
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
 <meta name="generator" content="Hugo 0.87.0" />
-<link rel="alternate" type="application/rss&#43;xml" href="https://younghomseminar.github.io/index.xml">
-<link rel="alternate" type="application/json" href="https://younghomseminar.github.io/index.json">
 <head>
-
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  <script>
+    MathJax = {
+      tex: {
+        inlineMath: [
+          ['$', '$'], ['\\(', '\\)']
+        ],
+        processEscapes: true,
+        processEnvironments: true
+      },
+      options: {
+        skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+      }
+    };
+  </script>
 
 
 
@@ -37,31 +54,72 @@
 </script>
 </head>
 
-<meta property="og:title" content="YoungHom" />
-<meta property="og:description" content="Young Homotopy-theorist Online Meeting" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://younghomseminar.github.io/" />
+<meta property="og:title" content="Assembly maps in topology" />
+<meta property="og:description" content="Speaker: Guglielmo Nocera – Institut des Hautes Études Scientifiques (IHÉS)
+Abstract: The Borel conjecture states that, for a discrete group $G$, any two closed topological manifolds homotopy equivalent to $BG$ are indeed homeomorphic to each other. The truth of the conjecture can be checked by inspecting whether the so-called assembly maps are equivalences. Informally, these maps relate certain $G$-equivariant homology theories to $K$-theory and $L$-theory of the group ring $\mathbb{Z}[G]$. In the special case of $G=\mathbb{Z}$, they are also related to classical splitting results in $K$- and $L$-theory of Laurent polynomials." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://younghomseminar.github.io/posts/2024/2024-10-30/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2024-10-30T00:00:00&#43;00:00" />
+<meta property="article:modified_time" content="2024-10-30T00:00:00&#43;00:00" />
 
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="YoungHom"/>
-<meta name="twitter:description" content="Young Homotopy-theorist Online Meeting"/>
+<meta name="twitter:title" content="Assembly maps in topology"/>
+<meta name="twitter:description" content="Speaker: Guglielmo Nocera – Institut des Hautes Études Scientifiques (IHÉS)
+Abstract: The Borel conjecture states that, for a discrete group $G$, any two closed topological manifolds homotopy equivalent to $BG$ are indeed homeomorphic to each other. The truth of the conjecture can be checked by inspecting whether the so-called assembly maps are equivalences. Informally, these maps relate certain $G$-equivariant homology theories to $K$-theory and $L$-theory of the group ring $\mathbb{Z}[G]$. In the special case of $G=\mathbb{Z}$, they are also related to classical splitting results in $K$- and $L$-theory of Laurent polynomials."/>
+
 
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "YoungHom",
-  "url": "https://younghomseminar.github.io/",
-  "description": "Young Homotopy-theorist Online Meeting",
-  "thumbnailUrl": "https://younghomseminar.github.io/favicon.ico",
-  "sameAs": [
-      
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Posts",
+      "item": "https://younghomseminar.github.io/posts/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "Assembly maps in topology",
+      "item": "https://younghomseminar.github.io/posts/2024/2024-10-30/"
+    }
   ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Assembly maps in topology",
+  "name": "Assembly maps in topology",
+  "description": "Speaker: Guglielmo Nocera – Institut des Hautes Études Scientifiques (IHÉS)\nAbstract: The Borel conjecture states that, for a discrete group $G$, any two closed topological manifolds homotopy equivalent to $BG$ are indeed homeomorphic to each other. The truth of the conjecture can be checked by inspecting whether the so-called assembly maps are equivalences. Informally, these maps relate certain $G$-equivariant homology theories to $K$-theory and $L$-theory of the group ring $\\mathbb{Z}[G]$. In the special case of $G=\\mathbb{Z}$, they are also related to classical splitting results in $K$- and $L$-theory of Laurent polynomials.",
+  "keywords": [
+    
+  ],
+  "articleBody": "Speaker: Guglielmo Nocera – Institut des Hautes Études Scientifiques (IHÉS)\nAbstract: The Borel conjecture states that, for a discrete group $G$, any two closed topological manifolds homotopy equivalent to $BG$ are indeed homeomorphic to each other. The truth of the conjecture can be checked by inspecting whether the so-called assembly maps are equivalences. Informally, these maps relate certain $G$-equivariant homology theories to $K$-theory and $L$-theory of the group ring $\\mathbb{Z}[G]$. In the special case of $G=\\mathbb{Z}$, they are also related to classical splitting results in $K$- and $L$-theory of Laurent polynomials. We will try to give a self-contained account of these problems and their state-of-the-art, briefly explaining how higher categorical tools are nowadays used in tackling them.\nbody {text-align: justify}",
+  "wordCount" : "120",
+  "inLanguage": "en",
+  "datePublished": "2024-10-30T00:00:00Z",
+  "dateModified": "2024-10-30T00:00:00Z",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://younghomseminar.github.io/posts/2024/2024-10-30/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "YoungHom",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://younghomseminar.github.io/favicon.ico"
+    }
+  }
 }
 </script>
 </head>
 
-<body class="list" id="top">
+<body class="" id="top">
 <script>
     if (localStorage.getItem("pref-theme") === "dark") {
         document.body.classList.add('dark');
@@ -166,16 +224,24 @@
         </ul>
     </nav>
 </header>
-<main class="main"><div class="profile">
-    <div class="profile_inner"><img src="frontpage.png" alt="Generated by DALL-E 2 using &#34;homotopy theory, pattern painting&#34;"
-            height="350" width="400" />
-        <h1>Young Homotopy-theorist Online Meeting</h1>
-        <span></span><div class="social-icons">
-</div>
+<main class="main">
 
-    </div>
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title">
+      Assembly maps in topology
+    </h1>
+    <div class="post-meta">October 30, 2024
 </div>
-
+  </header> 
+  <div class="post-content"><p><strong>Speaker:</strong> <a href="https://www.math.univ-paris13.fr/~nocera/">Guglielmo Nocera</a> – Institut des Hautes Études Scientifiques (IHÉS)</p>
+<p><strong>Abstract:</strong> The Borel conjecture states that, for a discrete group $G$, any two closed topological manifolds homotopy equivalent to $BG$ are indeed homeomorphic to each other. The truth of the conjecture can be checked by inspecting whether the so-called assembly maps are equivalences. Informally, these maps relate certain $G$-equivariant homology theories to $K$-theory and $L$-theory of the group ring $\mathbb{Z}[G]$. In the special case of $G=\mathbb{Z}$, they are also related to classical splitting results in $K$- and $L$-theory of Laurent polynomials. We will try to give a self-contained account of these problems and their state-of-the-art, briefly explaining how higher categorical tools are nowadays used in tackling them.</p>
+<style>body {text-align: justify}</style>
+</div>
+  <footer class="post-footer">
+  </footer>
+</article>
     </main>
     <footer class="footer">
     <span></span>

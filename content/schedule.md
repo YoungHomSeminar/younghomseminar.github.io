@@ -9,11 +9,11 @@ katex: true
 
 All talks are held online every other Wednesday at 2PM GMT, unless otherwise stated. 
 
-|Date    |Speaker                |Title|
-|--------|-----------------------|-----|
-|30.10.24|Guglielmo Nocera       |[Assembly maps in topology]({{<ref "/posts/2024-10-30">}})|
-|13.11.24|Jean Paul Schemeil     |[A point-free approach to fundamental groups]({{<ref "/posts/2024-11-13">}})|
-|27.11.24|Ben Szczesny           |[Realizing transfer systems by suboperads of coinduced operads]({{<ref "/posts/2024-11-27">}})|
+|Date    |Speaker                |Title|Note|
+|--------|-----------------------|-----|----|
+|27.11.24|Ben Szczesny           |[Realizing transfer systems by suboperads of coinduced operads]({{<ref "/posts/2024-11-27">}})||
+|11.12.24|Sonja M. Farr          |TBA||
+|15.01.25|Jonathan Sejr Pedersen |[Splitting Madsen–Tillmann spectra]({{<ref "/posts/2025-01-15">}})|
 
 
  

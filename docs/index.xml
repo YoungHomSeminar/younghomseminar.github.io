@@ -19,14 +19,13 @@ We discuss a number of applications, most prominently the computation of $H_2(B\
     </item>
     
     <item>
-      <title>Realizing transfer systems by suboperads of coinduced operads</title>
+      <title>A new approach to realizing transfer systems as equivariant operads</title>
       <link>https://younghomseminar.github.io/posts/2024-11-27/</link>
       <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
       
       <guid>https://younghomseminar.github.io/posts/2024-11-27/</guid>
       <description>Speaker: Ben Szczesny – Ohio State University
-Abstract: TBA
-body {text-align: justify}</description>
+Abstract: Blumberg and Hill have introduced the notion of $\mathbb{N}_ \infty$-operads as an equivariant extension of $\mathbb{E}_\infty$ that can also encode norm maps &amp;ndash; a type of twisted multiplication. It has been shown that the homotopy category of $\mathbb{N}_\infty$-operads is equivalent to a category of combinatorial objects called transfer systems. In this talk we will introduce a new construction that allows us to build operads realizing transfer systems that is both simpler than the currently available methods and, in some respects, more general as it also allows us to construct homotopy incoherent operads reminiscent of $\mathbb{E}_k$-operads.</description>
     </item>
     
     <item>
@@ -467,7 +466,7 @@ All talks are held online every other Wednesday at 2PM GMT, unless otherwise sta
       
       <guid>https://younghomseminar.github.io/schedule/</guid>
       <description>All talks are held online every other Wednesday at 2PM GMT, unless otherwise stated.
-   Date Speaker Title Note     27.11.24 Ben Szczesny Realizing transfer systems by suboperads of coinduced operads    11.12.24 Sonja M. Farr TBA    15.01.25 Jonathan Sejr Pedersen Splitting Madsen–Tillmann spectra     </description>
+   Date Speaker Title Note     27.11.24 Ben Szczesny A new approach to realizing transfer systems as equivariant operads    11.12.24 Sonja M. Farr TBA    15.01.25 Jonathan Sejr Pedersen Splitting Madsen–Tillmann spectra     </description>
     </item>
     
     

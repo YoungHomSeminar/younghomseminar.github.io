@@ -19,11 +19,21 @@ We discuss a number of applications, most prominently the computation of $H_2(B\
     </item>
     
     <item>
+      <title>Geometric GRT actions and Deligne’s conjecture on Hochschild cochains</title>
+      <link>https://younghomseminar.github.io/posts/2024-12-11/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://younghomseminar.github.io/posts/2024-12-11/</guid>
+      <description>Speaker: Sonja M. Farr – University of Nevada
+Abstract: In 1990 V. Drinfeld introduced a pro-unipotent algebraic group $\mathrm{GRT}$, which is closely related to the absolute Galois group $\mathrm{Gal}(\overline{Q}/Q)$. It was later shown by B. Fresse that this group is isomorphic to the group of homotopy automorphisms of the rationalization of the little disks operad. Deligne’s conjecture &amp;ndash; now a theorem with multiple proofs &amp;ndash; asserts that the natural operations on the Hochschild cochain complex of any smooth algebraic variety lift to an action of the dg operad of little disks in a precise way.</description>
+    </item>
+    
+    <item>
       <title>A new approach to realizing transfer systems as equivariant operads</title>
-      <link>https://younghomseminar.github.io/posts/2024-11-27/</link>
+      <link>https://younghomseminar.github.io/posts/2024/2024-11-27/</link>
       <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://younghomseminar.github.io/posts/2024-11-27/</guid>
+      <guid>https://younghomseminar.github.io/posts/2024/2024-11-27/</guid>
       <description>Speaker: Ben Szczesny – Ohio State University
 Abstract: Blumberg and Hill have introduced the notion of $\mathbb{N}_ \infty$-operads as an equivariant extension of $\mathbb{E}_\infty$ that can also encode norm maps &amp;ndash; a type of twisted multiplication. It has been shown that the homotopy category of $\mathbb{N}_\infty$-operads is equivalent to a category of combinatorial objects called transfer systems. In this talk we will introduce a new construction that allows us to build operads realizing transfer systems that is both simpler than the currently available methods and, in some respects, more general as it also allows us to construct homotopy incoherent operads reminiscent of $\mathbb{E}_k$-operads.</description>
     </item>
@@ -465,8 +475,8 @@ All talks are held online every other Wednesday at 2PM GMT, unless otherwise sta
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://younghomseminar.github.io/schedule/</guid>
-      <description>All talks are held online every other Wednesday at 2PM GMT, unless otherwise stated.
-   Date Speaker Title Note     27.11.24 Ben Szczesny A new approach to realizing transfer systems as equivariant operads    11.12.24 Sonja M. Farr TBA    15.01.25 Jonathan Sejr Pedersen Splitting Madsen–Tillmann spectra     </description>
+      <description>All talks are held online every other Wednesday at 3PM GMT, unless otherwise stated.
+   Date Speaker Title     11.12.24 Sonja M. Farr Geometric GRT actions and Deligne’s conjecture on Hochschild cochains   15.01.25 Jonathan Sejr Pedersen Splitting Madsen–Tillmann spectra    </description>
     </item>
     
     

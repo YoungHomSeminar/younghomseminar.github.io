@@ -9,17 +9,17 @@
     left: 0;
     right: 0;
     align-items: center;
-    height: 80%;
+    height: 90%;
     text-align: center
 }
 
 .profile .profile_inner h1 {
-    padding: 12px 0
+    padding: 0px 0
 }
 
 .profile img {
     display: inline-table;
-    border-radius: 4%;
+    border-radius: 1%;
     pointer-events: none
 }
 

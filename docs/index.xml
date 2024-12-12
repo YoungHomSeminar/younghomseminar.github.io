@@ -19,6 +19,17 @@ We discuss a number of applications, most prominently the computation of $H_2(B\
     </item>
     
     <item>
+      <title>Equivariant Bordism and Thom Spectra</title>
+      <link>https://younghomseminar.github.io/posts/2025-02-26/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://younghomseminar.github.io/posts/2025-02-26/</guid>
+      <description>Speaker: Emma Brink – University of Bonn
+Abstract: For a compact Lie group $G$, we describe equivariant versions of geometric bordism with stable tangential structures. These define $\mathbb Z$-graded equivariant homology theories which admit a Thom-Pontryagin comparison map to the homology theory represented by associated Thom spectra.
+If $G$ has non-abelian connected identity component (e.g. $G=SU(2)$), the geometric bordism theory is not represented by a genuine $G$-spectrum as it fails to admit certain Wirthmüller isomorphisms.</description>
+    </item>
+    
+    <item>
       <title>Geometric GRT actions and Deligne’s conjecture on Hochschild cochains</title>
       <link>https://younghomseminar.github.io/posts/2024-12-11/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
@@ -476,7 +487,7 @@ All talks are held online every other Wednesday at 2PM GMT, unless otherwise sta
       
       <guid>https://younghomseminar.github.io/schedule/</guid>
       <description>All talks are held online every other Wednesday at 3PM GMT, unless otherwise stated.
-   Date Speaker Title     11.12.24 Sonja M. Farr Geometric GRT actions and Deligne’s conjecture on Hochschild cochains   15.01.25 Jonathan Sejr Pedersen Splitting Madsen–Tillmann spectra    </description>
+   Date Speaker Title     15.01.25 Jonathan Sejr Pedersen Splitting Madsen–Tillmann spectra    </description>
     </item>
     
     

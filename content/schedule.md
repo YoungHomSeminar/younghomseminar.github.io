@@ -11,7 +11,7 @@ All talks are held online every other Wednesday at 3PM GMT, unless otherwise sta
 
 |Date    |Speaker                |Title|
 |--------|-----------------------|-----|
-|15.01.25|Jonathan Sejr Pedersen |[Splitting Madsen–Tillmann spectra]({{<ref "/posts/2025-01-15">}})|
+|29.01.25|Eigil Rischel          |[Triple categories of open dynamical systems]({{<ref "/posts/2025-01-29">}})|
 
 
  

@@ -1,6 +1,6 @@
 ---
 title: "Equivariant Bordism and Thom Spectra"
-date: 2024-12-11
+date: 2025-02-26
 draft: false
 math: true
 showtoc: false

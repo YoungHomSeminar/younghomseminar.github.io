@@ -6,27 +6,38 @@
     <description>Recent content in Posts on YoungHom</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright> </copyright>
-    <lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://younghomseminar.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Splitting Madsen-Tillmann spectra</title>
-      <link>https://younghomseminar.github.io/posts/2025-01-15/</link>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://younghomseminar.github.io/posts/2025-01-15/</guid>
-      <description>Speaker: Jonathan Sejr Pedersen – University of Toronto
-Abstract: We prove that the Madsen-Tillmann spectrum $$MT\theta_n := Th(− \theta^{*}_ {n} \gamma_{2n}\longrightarrow BO(2n)\langle n\rangle)$$ splits into the sum of spectra $\Sigma^{−2n}MO⟨n⟩\oplus \Sigma^{\infty−2n}\mathbb{R}P^{\infty}_{2n}$ after Postnikov trunctation $\tau_{\leq l}$ for $l=\frac{n}{2}−c$. This is achieved by showing the connecting homomorphism $\tau_{\leq l}MO\langle n\rangle \longrightarrow \tau_{\leq l}\Sigma^{\infty+1}\mathbb{R}P^{\infty}_{2n}$ is nullhomotopic in this range by applying Adams spectral sequence arguments.
-We discuss a number of applications, most prominently the computation of $H_2(B\mathrm{Diff}(W^{2n}_g,D^{2n});\mathbb{Z})$ which is connected to moduli spaces of high dimensional manifolds.</description>
-    </item>
-    
+    <lastBuildDate>Wed, 26 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://younghomseminar.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Equivariant Bordism and Thom Spectra</title>
       <link>https://younghomseminar.github.io/posts/2025-02-26/</link>
-      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
       
       <guid>https://younghomseminar.github.io/posts/2025-02-26/</guid>
       <description>Speaker: Emma Brink – University of Bonn
 Abstract: For a compact Lie group $G$, we describe equivariant versions of geometric bordism with stable tangential structures. These define $\mathbb Z$-graded equivariant homology theories which admit a Thom-Pontryagin comparison map to the homology theory represented by associated Thom spectra.
 If $G$ has non-abelian connected identity component (e.g. $G=SU(2)$), the geometric bordism theory is not represented by a genuine $G$-spectrum as it fails to admit certain Wirthmüller isomorphisms.</description>
+    </item>
+    
+    <item>
+      <title>Triple categories of open dynamical systems</title>
+      <link>https://younghomseminar.github.io/posts/2025-01-29/</link>
+      <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://younghomseminar.github.io/posts/2025-01-29/</guid>
+      <description>Speaker: Eigil Rischel – University of Strathclyde
+Abstract: In computer science (and mathematics), we often study various different types of &amp;ldquo;machine&amp;rdquo; or dynamical system. There are a number of different ways of fitting such things into a category - there are various notions of morphism between such systems, but also ways of treating systems as morphisms in a higher category to build composite systems.
+Combining these different notions, one arrives naturally at the conclusion that there should be a pseudo triple category of systems.</description>
+    </item>
+    
+    <item>
+      <title>Splitting Madsen-Tillmann spectra</title>
+      <link>https://younghomseminar.github.io/posts/2025/2025-01-15/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://younghomseminar.github.io/posts/2025/2025-01-15/</guid>
+      <description>Speaker: Jonathan Sejr Pedersen – University of Toronto
+Abstract: We prove that the Madsen-Tillmann spectrum $$MT\theta_n := Th(− \theta^{*}_ {n} \gamma_{2n}\longrightarrow BO(2n)\langle n\rangle)$$ splits into the sum of spectra $\Sigma^{−2n}MO⟨n⟩\oplus \Sigma^{\infty−2n}\mathbb{R}P^{\infty}_{2n}$ after Postnikov trunctation $\tau_{\leq l}$ for $l=\frac{n}{2}−c$. This is achieved by showing the connecting homomorphism $\tau_{\leq l}MO\langle n\rangle \longrightarrow \tau_{\leq l}\Sigma^{\infty+1}\mathbb{R}P^{\infty}_{2n}$ is nullhomotopic in this range by applying Adams spectral sequence arguments.
+We discuss a number of applications, most prominently the computation of $H_2(B\mathrm{Diff}(W^{2n}_g,D^{2n});\mathbb{Z})$ which is connected to moduli spaces of high dimensional manifolds.</description>
     </item>
     
     <item>

@@ -19,11 +19,21 @@ If $G$ has non-abelian connected identity component (e.g. $G=SU(2)$), the geomet
     </item>
     
     <item>
+      <title>An introduction to flow categories</title>
+      <link>https://younghomseminar.github.io/posts/2025-02-12/</link>
+      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://younghomseminar.github.io/posts/2025-02-12/</guid>
+      <description>Speaker: Trygve Poppe – Norwegian University of Science and Technology
+Abstract: Floer homotopy theory aims to extract stable homotopy invariants from certain geometric moduli problems that appear for instance in symplectic topology. Flow categories were introduced for this purpose by Cohen-Jones-Segal in the 90’s. The recent development of a good homotopy theory of flow categories has made the study of these objects more feasible, and of potential interest outside purely symplectic circles.</description>
+    </item>
+    
+    <item>
       <title>Triple categories of open dynamical systems</title>
-      <link>https://younghomseminar.github.io/posts/2025-01-29/</link>
+      <link>https://younghomseminar.github.io/posts/2025/2025-01-29/</link>
       <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://younghomseminar.github.io/posts/2025-01-29/</guid>
+      <guid>https://younghomseminar.github.io/posts/2025/2025-01-29/</guid>
       <description>Speaker: Eigil Rischel – University of Strathclyde
 Abstract: In computer science (and mathematics), we often study various different types of &amp;ldquo;machine&amp;rdquo; or dynamical system. There are a number of different ways of fitting such things into a category - there are various notions of morphism between such systems, but also ways of treating systems as morphisms in a higher category to build composite systems.
 Combining these different notions, one arrives naturally at the conclusion that there should be a pseudo triple category of systems.</description>
@@ -42,10 +52,10 @@ We discuss a number of applications, most prominently the computation of $H_2(B\
     
     <item>
       <title>Geometric GRT actions and Deligne’s conjecture on Hochschild cochains</title>
-      <link>https://younghomseminar.github.io/posts/2024-12-11/</link>
+      <link>https://younghomseminar.github.io/posts/2024/2024-12-11/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://younghomseminar.github.io/posts/2024-12-11/</guid>
+      <guid>https://younghomseminar.github.io/posts/2024/2024-12-11/</guid>
       <description>Speaker: Sonja M. Farr – University of Nevada
 Abstract: In 1990 V. Drinfeld introduced a pro-unipotent algebraic group $\mathrm{GRT}$, which is closely related to the absolute Galois group $\mathrm{Gal}(\overline{Q}/Q)$. It was later shown by B. Fresse that this group is isomorphic to the group of homotopy automorphisms of the rationalization of the little disks operad. Deligne’s conjecture &amp;ndash; now a theorem with multiple proofs &amp;ndash; asserts that the natural operations on the Hochschild cochain complex of any smooth algebraic variety lift to an action of the dg operad of little disks in a precise way.</description>
     </item>
@@ -498,7 +508,7 @@ All talks are held online every other Wednesday at 2PM GMT, unless otherwise sta
       
       <guid>https://younghomseminar.github.io/schedule/</guid>
       <description>All talks are held online every other Wednesday at 3PM GMT, unless otherwise stated.
-   Date Speaker Title     29.01.25 Eigil Rischel Triple categories of open dynamical systems    </description>
+   Date Speaker Title     12.02.25 Trygve Oldervoll Poppe An introduction to flow categories   26.02.25 Emma Brink Equivariant bordism and Thoms spectra    </description>
     </item>
     
     

@@ -11,7 +11,8 @@ All talks are held online every other Wednesday at 3PM GMT, unless otherwise sta
 
 |Date    |Speaker                |Title|
 |--------|-----------------------|-----|
-|29.01.25|Eigil Rischel          |[Triple categories of open dynamical systems]({{<ref "/posts/2025-01-29">}})|
+|12.02.25|Trygve Oldervoll Poppe |[An introduction to flow categories]({{<ref "2025-02-12">}})|
+|26.02.25|Emma Brink             |[Equivariant bordism and Thoms spectra]({{<ref "2025-02-26">}})
 
 
  
